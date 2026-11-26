@@ -1,0 +1,10 @@
+[2026-11-26 14:50:37] local.INFO: Interakt User Track Request: {"phoneNumber":"9876540000","countryCode":"+91","traits":{"name":"Ver Werwefr"},"tags":["Hire Get Offer"]}  
+[2026-11-26 14:50:38] local.INFO: Interakt User Track Response:   
+[2026-11-26 14:50:38] local.INFO: Interakt User Track Error: SSL certificate problem: unable to get local issuer certificate  
+[2026-11-26 14:50:38] local.INFO: Interakt Event Track Request: {"phoneNumber":"9876540000","countryCode":"+91","event":"Hire Get Offer","traits":{"HireEligibleAmount":875000}}  
+[2026-11-26 14:50:38] local.INFO: Interakt Event Track Response:   
+[2026-11-26 14:50:38] local.INFO: Interakt Event Track Error: SSL certificate problem: unable to get local issuer certificate  
+[2026-11-26 14:50:38] local.INFO: interakt_message response :   
+[2026-11-26 14:50:38] local.INFO: interakt_message error : SSL certificate problem: unable to get local issuer certificate  
+[2026-11-26 14:52:23] local.INFO: 588  
+[2026-11-26 14:52:23] local.ERROR: loan agent checkout method error occured: Authentication failed  

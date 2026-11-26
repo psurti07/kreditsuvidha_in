@@ -1,0 +1,785 @@
+[2026-10-16 06:51:43] production.INFO: cURL error 28: Connection timed out after 10001 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://m.onlinebusinessbazaar.in/sendsms.jsp?user=quikborw&password=937a02603dXX&senderid=QIKBRW&mobiles=8919156092&sms=Hello%2C+the+QuikBorrow+OTP+for+your+mobile+number+registration+is+9732.+Kindly+do+not+share+it+with+anyone.+Thanks%2C+QuikBorrow  
+[2026-10-16 07:23:06] production.INFO: cURL error 28: Connection timed out after 10001 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://m.onlinebusinessbazaar.in/sendsms.jsp?user=quikborw&password=937a02603dXX&senderid=QIKBRW&mobiles=9412346755&sms=Hello%2C+the+QuikBorrow+OTP+for+your+mobile+number+registration+is+1700.+Kindly+do+not+share+it+with+anyone.+Thanks%2C+QuikBorrow  
+[2026-10-16 07:35:36] production.INFO: cURL error 28: Connection timed out after 10001 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://m.onlinebusinessbazaar.in/sendsms.jsp?user=quikborw&password=937a02603dXX&senderid=QIKBRW&mobiles=7306080905&sms=Hello%2C+the+QuikBorrow+OTP+for+your+mobile+number+registration+is+4681.+Kindly+do+not+share+it+with+anyone.+Thanks%2C+QuikBorrow  
+[2026-10-16 07:38:42] production.INFO: cURL error 28: Connection timed out after 10000 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://m.onlinebusinessbazaar.in/sendsms.jsp?user=quikborw&password=937a02603dXX&senderid=QIKBRW&mobiles=7306080905&sms=Hello%2C+the+QuikBorrow+OTP+for+your+mobile+number+registration+is+6480.+Kindly+do+not+share+it+with+anyone.+Thanks%2C+QuikBorrow  
+[2026-10-16 07:39:52] production.INFO: cURL error 28: Connection timed out after 10000 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://m.onlinebusinessbazaar.in/sendsms.jsp?user=quikborw&password=937a02603dXX&senderid=QIKBRW&mobiles=7306080905&sms=Hello%2C+the+QuikBorrow+OTP+for+your+mobile+number+registration+is+6250.+Kindly+do+not+share+it+with+anyone.+Thanks%2C+QuikBorrow  
+[2026-10-16 07:41:00] production.INFO: cURL error 28: Connection timed out after 10000 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://m.onlinebusinessbazaar.in/sendsms.jsp?user=quikborw&password=937a02603dXX&senderid=QIKBRW&mobiles=7306080090&sms=Hello%2C+the+QuikBorrow+OTP+for+your+mobile+number+registration+is+8104.+Kindly+do+not+share+it+with+anyone.+Thanks%2C+QuikBorrow  
+[2026-10-16 07:45:41] production.INFO: cURL error 28: Connection timed out after 10001 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://m.onlinebusinessbazaar.in/sendsms.jsp?user=quikborw&password=937a02603dXX&senderid=QIKBRW&mobiles=8822141721&sms=Hello%2C+the+QuikBorrow+OTP+for+your+mobile+number+registration+is+7760.+Kindly+do+not+share+it+with+anyone.+Thanks%2C+QuikBorrow  
+[2026-10-16 07:57:55] production.INFO: cURL error 28: Connection timed out after 10000 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://m.onlinebusinessbazaar.in/sendsms.jsp?user=quikborw&password=937a02603dXX&senderid=QIKBRW&mobiles=9745466667&sms=Hello%2C+the+QuikBorrow+OTP+for+your+mobile+number+registration+is+9657.+Kindly+do+not+share+it+with+anyone.+Thanks%2C+QuikBorrow  
+[2026-10-16 08:01:01] production.INFO: cURL error 28: Connection timed out after 10001 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://m.onlinebusinessbazaar.in/sendsms.jsp?user=quikborw&password=937a02603dXX&senderid=QIKBRW&mobiles=9800249810&sms=Hello%2C+the+QuikBorrow+OTP+for+your+mobile+number+registration+is+5609.+Kindly+do+not+share+it+with+anyone.+Thanks%2C+QuikBorrow  
+[2026-10-16 08:04:13] production.INFO: Interakt User Track Request: {"phoneNumber":"9702703243","countryCode":"+91","traits":{"name":"Kunal Anil khanolkar"},"tags":["Self Get Offer"]}  
+[2026-10-16 08:04:13] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 055483ca-569f-40ec-8c2a-b4ac845134d4 updated successfully"}  
+[2026-10-16 08:04:13] production.INFO: Interakt User Track Error:   
+[2026-10-16 08:04:13] production.INFO: Interakt Event Track Request: {"phoneNumber":"9702703243","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":822086}}  
+[2026-10-16 08:04:13] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"d44e92fe-d243-4f02-ae91-cdd200afb587"}  
+[2026-10-16 08:04:13] production.INFO: Interakt Event Track Error:   
+[2026-10-16 08:04:13] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 08:04:13] production.INFO: interakt_message error :   
+[2026-10-16 08:18:17] production.INFO: Interakt User Track Request: {"phoneNumber":"8134929472","countryCode":"+91","traits":{"name":"Lalrozuala Rza"},"tags":["Self Get Offer"]}  
+[2026-10-16 08:18:17] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id ae737462-f1c8-4f46-b61c-b165b769e4bd updated successfully"}  
+[2026-10-16 08:18:17] production.INFO: Interakt User Track Error:   
+[2026-10-16 08:18:17] production.INFO: Interakt Event Track Request: {"phoneNumber":"8134929472","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 08:18:17] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"555a9bc4-95bc-4040-a834-a050459fd8d0"}  
+[2026-10-16 08:18:17] production.INFO: Interakt Event Track Error:   
+[2026-10-16 08:18:18] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 08:18:18] production.INFO: interakt_message error :   
+[2026-10-16 08:40:31] production.INFO: Interakt User Track Request: {"phoneNumber":"9790609399","countryCode":"+91","traits":{"name":"Moses P P"},"tags":["Self Get Offer"]}  
+[2026-10-16 08:40:32] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 3bf97bf6-b699-4a42-b035-b042d13bd884 updated successfully"}  
+[2026-10-16 08:40:32] production.INFO: Interakt User Track Error:   
+[2026-10-16 08:40:32] production.INFO: Interakt Event Track Request: {"phoneNumber":"9790609399","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":875000}}  
+[2026-10-16 08:40:32] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"3d80f790-a08e-49c3-9ea1-673a15dba878"}  
+[2026-10-16 08:40:32] production.INFO: Interakt Event Track Error:   
+[2026-10-16 08:40:32] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 08:40:32] production.INFO: interakt_message error :   
+[2026-10-16 08:41:40] production.INFO: Interakt Event Track Request: {"phoneNumber":"9790609399","countryCode":"+91","event":"Self Payment Failed"}  
+[2026-10-16 08:41:40] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"34c55c02-1022-4495-bcc9-087c98a59d0f"}  
+[2026-10-16 08:41:40] production.INFO: Interakt Event Track Error:   
+[2026-10-16 08:42:30] production.INFO: Interakt User Track Request: {"phoneNumber":"8077521855","countryCode":"+91","traits":{"name":"Shanavaz Khan"},"tags":["Self Get Offer"]}  
+[2026-10-16 08:42:30] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id c9af7913-e5f7-4400-9b1d-5d0bed4cfb37 updated successfully"}  
+[2026-10-16 08:42:30] production.INFO: Interakt User Track Error:   
+[2026-10-16 08:42:30] production.INFO: Interakt Event Track Request: {"phoneNumber":"8077521855","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 08:42:30] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"b52fba0c-87e4-477e-acd3-c40c5f222299"}  
+[2026-10-16 08:42:30] production.INFO: Interakt Event Track Error:   
+[2026-10-16 08:42:30] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 08:42:30] production.INFO: interakt_message error :   
+[2026-10-16 09:04:41] production.INFO: Interakt User Track Request: {"phoneNumber":"7339134149","countryCode":"+91","traits":{"name":"BaluGanthi BaluGanthi"},"tags":["Self Get Offer"]}  
+[2026-10-16 09:04:41] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id e8674106-f4eb-4ed4-8794-afad1dc63895 updated successfully"}  
+[2026-10-16 09:04:41] production.INFO: Interakt User Track Error:   
+[2026-10-16 09:04:41] production.INFO: Interakt Event Track Request: {"phoneNumber":"7339134149","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 09:04:41] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"a92047ab-e8e4-4bad-ac79-6ee2a5017211"}  
+[2026-10-16 09:04:41] production.INFO: Interakt Event Track Error:   
+[2026-10-16 09:04:41] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 09:04:41] production.INFO: interakt_message error :   
+[2026-10-16 09:11:31] production.INFO: Interakt User Track Request: {"phoneNumber":"9833144435","countryCode":"+91","traits":{"name":"Ganesh Kumar Rajoriya"},"tags":["Self Get Offer"]}  
+[2026-10-16 09:11:31] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id da115414-b124-42e5-beca-8c7669f730a2 updated successfully"}  
+[2026-10-16 09:11:31] production.INFO: Interakt User Track Error:   
+[2026-10-16 09:11:31] production.INFO: Interakt Event Track Request: {"phoneNumber":"9833144435","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":875000}}  
+[2026-10-16 09:11:31] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"719e515e-223b-4d3e-b5f6-6f94d27cd4ad"}  
+[2026-10-16 09:11:31] production.INFO: Interakt Event Track Error:   
+[2026-10-16 09:11:32] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 09:11:32] production.INFO: interakt_message error :   
+[2026-10-16 09:12:22] production.INFO: Interakt Event Track Request: {"phoneNumber":"9833144435","countryCode":"+91","event":"Self Payment Failed"}  
+[2026-10-16 09:12:23] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"25b36326-89a0-4c61-97ff-0274f87a34a4"}  
+[2026-10-16 09:12:23] production.INFO: Interakt Event Track Error:   
+[2026-10-16 10:12:02] production.INFO: Interakt User Track Request: {"phoneNumber":"8089183166","countryCode":"+91","traits":{"name":"Sibin Issac"},"tags":["Self Get Offer"]}  
+[2026-10-16 10:12:03] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id a881efa0-77f6-4746-a4bd-c73e0e3d8b41 updated successfully"}  
+[2026-10-16 10:12:03] production.INFO: Interakt User Track Error:   
+[2026-10-16 10:12:03] production.INFO: Interakt Event Track Request: {"phoneNumber":"8089183166","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":411454}}  
+[2026-10-16 10:12:03] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"271484b9-b66a-4c4c-bd52-85d62bf562ab"}  
+[2026-10-16 10:12:03] production.INFO: Interakt Event Track Error:   
+[2026-10-16 10:12:03] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 10:12:03] production.INFO: interakt_message error :   
+[2026-10-16 10:12:08] production.INFO: Interakt User Track Request: {"phoneNumber":"8219874846","countryCode":"+91","traits":{"name":"Ashwani Thakur"},"tags":["Self Get Offer"]}  
+[2026-10-16 10:12:08] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id df1e7c89-a376-47ee-b8b9-24a80a7751bb updated successfully"}  
+[2026-10-16 10:12:09] production.INFO: Interakt User Track Error:   
+[2026-10-16 10:12:09] production.INFO: Interakt Event Track Request: {"phoneNumber":"8219874846","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":411454}}  
+[2026-10-16 10:12:09] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"8484ced2-5b8b-45a1-890c-f7344b48c889"}  
+[2026-10-16 10:12:09] production.INFO: Interakt Event Track Error:   
+[2026-10-16 10:12:09] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 10:12:09] production.INFO: interakt_message error :   
+[2026-10-16 10:14:03] production.INFO: Interakt User Track Request: {"phoneNumber":"8089183166","countryCode":"+91","traits":{"name":"Sibin Issac"},"tags":["Self Get Offer"]}  
+[2026-10-16 10:14:04] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id a881efa0-77f6-4746-a4bd-c73e0e3d8b41 updated successfully"}  
+[2026-10-16 10:14:04] production.INFO: Interakt User Track Error:   
+[2026-10-16 10:14:04] production.INFO: Interakt Event Track Request: {"phoneNumber":"8089183166","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 10:14:04] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"e1174a7b-0d7a-4f88-9eb3-73cf5839e4b6"}  
+[2026-10-16 10:14:04] production.INFO: Interakt Event Track Error:   
+[2026-10-16 10:14:04] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 10:14:04] production.INFO: interakt_message error :   
+[2026-10-16 10:14:38] production.INFO: Interakt User Track Request: {"phoneNumber":"6376870153","countryCode":"+91","traits":{"name":"Ganesh Lal Meena"},"tags":["Self Get Offer"]}  
+[2026-10-16 10:14:38] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 23d1c98e-dcf2-426f-a45f-533872c73264 updated successfully"}  
+[2026-10-16 10:14:38] production.INFO: Interakt User Track Error:   
+[2026-10-16 10:14:38] production.INFO: Interakt Event Track Request: {"phoneNumber":"6376870153","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 10:14:38] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"8d7e56a8-e1c7-4098-9101-9075ee5923f4"}  
+[2026-10-16 10:14:38] production.INFO: Interakt Event Track Error:   
+[2026-10-16 10:14:39] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 10:14:39] production.INFO: interakt_message error :   
+[2026-10-16 10:20:21] production.INFO: Interakt Event Track Request: {"phoneNumber":"8089183166","countryCode":"+91","event":"Self Payment Failed"}  
+[2026-10-16 10:20:21] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"dccb9bc0-ab99-4867-a4a1-49889f866160"}  
+[2026-10-16 10:20:21] production.INFO: Interakt Event Track Error:   
+[2026-10-16 10:21:34] production.INFO: Easebuzz payment initiation data {"postData":{"txnid":"TXN1792126294","amount":352.81999999999999317878973670303821563720703125,"firstname":"Sibin Issac","email":"sibinsibi8547@icloud.com","phone":"8089183166","productinfo":"self-apply","orderid":"1792126294730","surl":"https://quikborrow.com/api/self-apply/star-offer-response","furl":"https://quikborrow.com/api/self-apply/star-offer-response"},"key":"1W9O0UJ7JA","salt":"QSONAIH0SE","easebuzz_env":"PROD"} 
+[2026-10-16 10:23:51] production.INFO: Interakt User Track Request: {"phoneNumber":"8870290040","countryCode":"+91","traits":{"name":"Surendar Balu"},"tags":["Self Get Offer"]}  
+[2026-10-16 10:23:51] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id d29aa839-677d-4c82-83c1-cb65b6f39a01 updated successfully"}  
+[2026-10-16 10:23:51] production.INFO: Interakt User Track Error:   
+[2026-10-16 10:23:51] production.INFO: Interakt Event Track Request: {"phoneNumber":"8870290040","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 10:23:51] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"3b21aaf7-c3c4-4f19-b9dd-9c876334046e"}  
+[2026-10-16 10:23:51] production.INFO: Interakt Event Track Error:   
+[2026-10-16 10:23:52] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 10:23:52] production.INFO: interakt_message error :   
+[2026-10-16 10:55:25] production.INFO: Interakt User Track Request: {"phoneNumber":"9744523219","countryCode":"+91","traits":{"name":"Jincy Babu"},"tags":["Self Get Offer"]}  
+[2026-10-16 10:55:25] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id bfec469c-c2b8-408e-889d-a53b1a8566cc updated successfully"}  
+[2026-10-16 10:55:25] production.INFO: Interakt User Track Error:   
+[2026-10-16 10:55:25] production.INFO: Interakt Event Track Request: {"phoneNumber":"9744523219","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 10:55:25] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"fd0ab0ce-bc13-47c2-9ab2-cdfc487573ef"}  
+[2026-10-16 10:55:25] production.INFO: Interakt Event Track Error:   
+[2026-10-16 10:55:25] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 10:55:25] production.INFO: interakt_message error :   
+[2026-10-16 11:14:22] production.INFO: Interakt User Track Request: {"phoneNumber":"9868871382","countryCode":"+91","traits":{"name":"Kamal Chaudhary"},"tags":["Self Get Offer"]}  
+[2026-10-16 11:14:23] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 65e82b72-7fe0-4c61-b7b9-474978ac0c00 updated successfully"}  
+[2026-10-16 11:14:23] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:14:23] production.INFO: Interakt Event Track Request: {"phoneNumber":"9868871382","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":340831}}  
+[2026-10-16 11:14:23] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"46ff3050-2a7f-43f3-ad23-21aca57fce20"}  
+[2026-10-16 11:14:23] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:14:23] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 11:14:23] production.INFO: interakt_message error :   
+[2026-10-16 11:14:31] production.INFO: Interakt User Track Request: {"phoneNumber":"8347251862","countryCode":"+91","traits":{"name":"Kalpesh Mehta"},"tags":["Self Get Offer"]}  
+[2026-10-16 11:14:32] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id d65f8c40-a6d2-40a1-93e5-f9369f652198 updated successfully"}  
+[2026-10-16 11:14:32] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:14:32] production.INFO: Interakt Event Track Request: {"phoneNumber":"8347251862","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 11:14:32] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"7b292908-fc1d-4e2b-b4f0-ef41796ba888"}  
+[2026-10-16 11:14:32] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:14:32] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 11:14:32] production.INFO: interakt_message error :   
+[2026-10-16 11:26:05] production.INFO: Interakt User Track Request: {"phoneNumber":"9495919339","countryCode":"+91","traits":{"name":"Sreejith Vellappady"},"tags":["Self Get Offer"]}  
+[2026-10-16 11:26:06] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 6c3334b8-5b85-4db5-874f-100da54b4a12 updated successfully"}  
+[2026-10-16 11:26:06] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:26:06] production.INFO: Interakt Event Track Request: {"phoneNumber":"9495919339","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 11:26:06] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"9d361aa7-7347-4ca1-9573-e4a1013a5015"}  
+[2026-10-16 11:26:06] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:26:06] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 11:26:06] production.INFO: interakt_message error :   
+[2026-10-16 11:26:35] production.INFO: Interakt User Track Request: {"phoneNumber":"9022479485","countryCode":"+91","traits":{"name":"Anand Panchal"},"tags":["Self Get Offer"]}  
+[2026-10-16 11:26:36] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id c86867a5-da16-40c7-93f6-be9a435312cd updated successfully"}  
+[2026-10-16 11:26:36] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:26:36] production.INFO: Interakt Event Track Request: {"phoneNumber":"9022479485","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 11:26:36] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"75cdbb1a-20fa-491e-9eed-31628a8adc66"}  
+[2026-10-16 11:26:36] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:26:36] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 11:26:36] production.INFO: interakt_message error :   
+[2026-10-16 11:27:27] production.INFO: response{"messageId":"<202610160557.66351322284@smtp-relay.mailin.fr>"}
+  
+[2026-10-16 11:27:27] production.INFO: err  
+[2026-10-16 11:27:27] production.INFO: Order API Request: {"remote_data":{"company_code":"QIKBRW5678","company_local_ip":"190.92.174.183","product_code":"SELFAPPLY","customer_name":"Anand Panchal","customer_email":"anand.saicare@gmail.com","customer_mobile":"9022479485","userid":3629,"card_number":"7537043516808941","rec_date":"2026-10-16 11:27:27","inv_prefix":"SA_","inv_number":"211","inv_date":"2026-10-16","inv_price":299.0,"inv_cgst":0,"inv_sgst":0,"inv_igst":53.0,"inv_grandtotal":352.0}} 
+[2026-10-16 11:27:27] production.INFO: Order API Response: {"response":{"type":"SUCCESS","http":200,"data":{"type":"SUCCESS","message":"Partner turnover inserted successfully."}}} 
+[2026-10-16 11:27:27] production.INFO: paymentSuccess data - []  
+[2026-10-16 11:27:27] production.INFO: paymentSuccess - loanType: 1, applyId: 3622, orderId: order_ToTKURX96hMfKF, responsecode: 100  
+[2026-10-16 11:27:27] production.INFO: Facebook Conversion API Response {"response":"{\"events_received\":1,\"messages\":[],\"fbtrace_id\":\"AWj18SbpXSAlvuQs3S7jUg8\"}","decoded_response":{"events_received":1,"messages":[],"fbtrace_id":"AWj18SbpXSAlvuQs3S7jUg8"},"curl_error":"","curl_errno":0,"http_code":200} 
+[2026-10-16 11:27:27] production.INFO: Interakt User Track Request: {"phoneNumber":"9022479485","countryCode":"+91","traits":{"name":"Anand Panchal"},"tags":["Self Payment Successful"]}  
+[2026-10-16 11:27:28] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id c86867a5-da16-40c7-93f6-be9a435312cd updated successfully"}  
+[2026-10-16 11:27:28] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:27:28] production.INFO: Interakt Event Track Request: {"phoneNumber":"9022479485","countryCode":"+91","event":"Self Payment Successful","traits":{"userid":"9022479485","userpass":"Ze7kTV"}}  
+[2026-10-16 11:27:28] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"a6fdc568-0090-4a64-aaa1-c6d061f71b44"}  
+[2026-10-16 11:27:28] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:27:33] production.INFO: array (
+  'mobile' => '9022479485',
+  'password' => 'Ze7kTV',
+  'isDelete' => 0,
+)  
+[2026-10-16 11:28:25] production.INFO: Interakt User Track Request: {"phoneNumber":"9790558652","countryCode":"+91","traits":{"name":"Senthilkumar Rajendran"},"tags":["Self Get Offer"]}  
+[2026-10-16 11:28:26] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id e7e7eaba-a50d-407c-8a17-22041bd032d0 updated successfully"}  
+[2026-10-16 11:28:26] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:28:26] production.INFO: Interakt Event Track Request: {"phoneNumber":"9790558652","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":493724}}  
+[2026-10-16 11:28:26] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"d1fb69cc-b656-436b-b072-215f93ef7190"}  
+[2026-10-16 11:28:26] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:28:26] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 11:28:26] production.INFO: interakt_message error :   
+[2026-10-16 11:29:15] production.INFO: Interakt User Track Request: {"phoneNumber":"9650549639","countryCode":"+91","traits":{"name":"Rajeev Kumar"},"tags":["Self Get Offer"]}  
+[2026-10-16 11:29:15] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 14615216-a030-41c2-89ec-97f16006bfd9 updated successfully"}  
+[2026-10-16 11:29:15] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:29:15] production.INFO: Interakt Event Track Request: {"phoneNumber":"9650549639","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 11:29:15] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"be4c752a-ebe4-4bb0-93ea-45dd84066c41"}  
+[2026-10-16 11:29:15] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:29:15] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 11:29:15] production.INFO: interakt_message error :   
+[2026-10-16 11:30:31] production.INFO: Interakt User Track Request: {"phoneNumber":"9790558652","countryCode":"+91","traits":{"name":"Senthilkumar Rajendran"},"tags":["Self Get Offer"]}  
+[2026-10-16 11:30:31] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id e7e7eaba-a50d-407c-8a17-22041bd032d0 updated successfully"}  
+[2026-10-16 11:30:31] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:30:31] production.INFO: Interakt Event Track Request: {"phoneNumber":"9790558652","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":493724}}  
+[2026-10-16 11:30:31] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"949b04d8-f144-4593-937d-2db8788837f9"}  
+[2026-10-16 11:30:31] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:30:31] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 11:30:31] production.INFO: interakt_message error :   
+[2026-10-16 11:32:42] production.INFO: Interakt User Track Request: {"phoneNumber":"9100831943","countryCode":"+91","traits":{"name":"Mohammed Shakeel Sayeed"},"tags":["Self Get Offer"]}  
+[2026-10-16 11:32:42] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id d6787438-2db9-481d-acab-da9cf03df642 updated successfully"}  
+[2026-10-16 11:32:42] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:32:42] production.INFO: Interakt Event Track Request: {"phoneNumber":"9100831943","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":875000}}  
+[2026-10-16 11:32:42] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"7ed934a6-53c1-442b-87d3-c713da191cc7"}  
+[2026-10-16 11:32:42] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:32:42] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 11:32:42] production.INFO: interakt_message error :   
+[2026-10-16 11:36:21] production.INFO: response{"messageId":"<202610160606.73967012975@smtp-relay.mailin.fr>"}
+  
+[2026-10-16 11:36:21] production.INFO: err  
+[2026-10-16 11:36:21] production.INFO: Order API Request: {"remote_data":{"company_code":"QIKBRW5678","company_local_ip":"190.92.174.183","product_code":"SELFAPPLY","customer_name":"Mohammed Shakeel Sayeed","customer_email":"ssayeed48@gmail.com","customer_mobile":"9100831943","userid":3642,"card_number":"7973813902248064","rec_date":"2026-10-16 11:36:21","inv_prefix":"SA_","inv_number":"212","inv_date":"2026-10-16","inv_price":299.0,"inv_cgst":0,"inv_sgst":0,"inv_igst":53.0,"inv_grandtotal":352.0}} 
+[2026-10-16 11:36:21] production.INFO: Order API Response: {"response":{"type":"SUCCESS","http":200,"data":{"type":"SUCCESS","message":"Partner turnover inserted successfully."}}} 
+[2026-10-16 11:36:22] production.INFO: paymentSuccess data - []  
+[2026-10-16 11:36:22] production.INFO: paymentSuccess - loanType: 1, applyId: 3635, orderId: order_ToTS1rFFyEFH3H, responsecode: 100  
+[2026-10-16 11:36:22] production.INFO: Facebook Conversion API Response {"response":"{\"events_received\":1,\"messages\":[],\"fbtrace_id\":\"AxqQo_ACN5h9ExkfixYz-3p\"}","decoded_response":{"events_received":1,"messages":[],"fbtrace_id":"AxqQo_ACN5h9ExkfixYz-3p"},"curl_error":"","curl_errno":0,"http_code":200} 
+[2026-10-16 11:36:22] production.INFO: Interakt User Track Request: {"phoneNumber":"9100831943","countryCode":"+91","traits":{"name":"Mohammed Shakeel Sayeed"},"tags":["Self Payment Successful"]}  
+[2026-10-16 11:36:22] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id d6787438-2db9-481d-acab-da9cf03df642 updated successfully"}  
+[2026-10-16 11:36:22] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:36:22] production.INFO: Interakt Event Track Request: {"phoneNumber":"9100831943","countryCode":"+91","event":"Self Payment Successful","traits":{"userid":"9100831943","userpass":"NxU21C"}}  
+[2026-10-16 11:36:22] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"34debed2-9e72-4921-b111-dc568e5625e9"}  
+[2026-10-16 11:36:22] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:36:53] production.INFO: array (
+  'mobile' => '9100831943',
+  'password' => 'NxU21C',
+  'isDelete' => 0,
+)  
+[2026-10-16 11:39:20] production.INFO: Interakt User Track Request: {"phoneNumber":"7974596435","countryCode":"+91","traits":{"name":"Sanjeev Kumar Tiwari"},"tags":["Self Get Offer"]}  
+[2026-10-16 11:39:21] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 312fe7eb-72ef-453a-b556-54354adc91e5 updated successfully"}  
+[2026-10-16 11:39:21] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:39:21] production.INFO: Interakt Event Track Request: {"phoneNumber":"7974596435","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":875000}}  
+[2026-10-16 11:39:21] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"94863aef-a7f3-4014-9ad5-c461969f5264"}  
+[2026-10-16 11:39:21] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:39:21] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 11:39:21] production.INFO: interakt_message error :   
+[2026-10-16 11:57:32] production.INFO: Interakt User Track Request: {"phoneNumber":"9826779462","countryCode":"+91","traits":{"name":"Sudesh vinodia Vinodia"},"tags":["Self Get Offer"]}  
+[2026-10-16 11:57:33] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 85cc9486-dc2c-4a70-b39b-261104214b6d updated successfully"}  
+[2026-10-16 11:57:33] production.INFO: Interakt User Track Error:   
+[2026-10-16 11:57:33] production.INFO: Interakt Event Track Request: {"phoneNumber":"9826779462","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":875000}}  
+[2026-10-16 11:57:33] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"80291c52-769d-4fb9-b0ca-cfecd1967310"}  
+[2026-10-16 11:57:33] production.INFO: Interakt Event Track Error:   
+[2026-10-16 11:57:33] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 11:57:33] production.INFO: interakt_message error :   
+[2026-10-16 12:00:06] production.INFO: response{"messageId":"<202610160630.17675597494@smtp-relay.mailin.fr>"}
+  
+[2026-10-16 12:00:06] production.INFO: err  
+[2026-10-16 12:00:06] production.INFO: Order API Request: {"remote_data":{"company_code":"QIKBRW5678","company_local_ip":"190.92.174.183","product_code":"SELFAPPLY","customer_name":"Sudesh vinodia Vinodia","customer_email":"sudeshvinodia0@gmail.com","customer_mobile":"9826779462","userid":3644,"card_number":"5139988602371750","rec_date":"2026-10-16 12:00:06","inv_prefix":"SA_","inv_number":"213","inv_date":"2026-10-16","inv_price":299.0,"inv_cgst":0,"inv_sgst":0,"inv_igst":53.0,"inv_grandtotal":352.0}} 
+[2026-10-16 12:00:06] production.INFO: Order API Response: {"response":{"type":"SUCCESS","http":200,"data":{"type":"SUCCESS","message":"Partner turnover inserted successfully."}}} 
+[2026-10-16 12:00:06] production.INFO: paymentSuccess data - []  
+[2026-10-16 12:00:06] production.INFO: paymentSuccess - loanType: 2, applyId: 3637, orderId: order_ToTsUxrrotoc0L, responsecode: 100  
+[2026-10-16 12:00:07] production.INFO: Facebook Conversion API Response {"response":"{\"events_received\":1,\"messages\":[],\"fbtrace_id\":\"Atb3suuP7I9aJl6bv4Yfh0E\"}","decoded_response":{"events_received":1,"messages":[],"fbtrace_id":"Atb3suuP7I9aJl6bv4Yfh0E"},"curl_error":"","curl_errno":0,"http_code":200} 
+[2026-10-16 12:00:07] production.INFO: Interakt User Track Request: {"phoneNumber":"9826779462","countryCode":"+91","traits":{"name":"Sudesh vinodia Vinodia"},"tags":["Self Payment Successful"]}  
+[2026-10-16 12:00:07] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 85cc9486-dc2c-4a70-b39b-261104214b6d updated successfully"}  
+[2026-10-16 12:00:07] production.INFO: Interakt User Track Error:   
+[2026-10-16 12:00:07] production.INFO: Interakt Event Track Request: {"phoneNumber":"9826779462","countryCode":"+91","event":"Self Payment Successful","traits":{"userid":"9826779462","userpass":"1E2OVN"}}  
+[2026-10-16 12:00:07] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"c70631c4-d632-4360-bcfe-f6b8a619697b"}  
+[2026-10-16 12:00:07] production.INFO: Interakt Event Track Error:   
+[2026-10-16 12:00:46] production.INFO: array (
+  'mobile' => '9826779462',
+  'password' => '1E2OVN',
+  'isDelete' => 0,
+)  
+[2026-10-16 12:43:04] production.INFO: Interakt User Track Request: {"phoneNumber":"9629827900","countryCode":"+91","traits":{"name":"Vigneshwaran M"},"tags":["Self Get Offer"]}  
+[2026-10-16 12:43:05] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 394abd61-6606-4de6-84f9-4bf6e0b72372 updated successfully"}  
+[2026-10-16 12:43:05] production.INFO: Interakt User Track Error:   
+[2026-10-16 12:43:05] production.INFO: Interakt Event Track Request: {"phoneNumber":"9629827900","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 12:43:05] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"4e0a904a-ab27-489f-b92f-99a90afecc2b"}  
+[2026-10-16 12:43:05] production.INFO: Interakt Event Track Error:   
+[2026-10-16 12:43:05] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 12:43:05] production.INFO: interakt_message error :   
+[2026-10-16 13:15:48] production.INFO: Interakt User Track Request: {"phoneNumber":"9322186758","countryCode":"+91","traits":{"name":"Arjun Jaiswal"},"tags":["Self Get Offer"]}  
+[2026-10-16 13:15:48] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 3119d8d5-711a-41fd-b773-8bdffc924595 updated successfully"}  
+[2026-10-16 13:15:48] production.INFO: Interakt User Track Error:   
+[2026-10-16 13:15:48] production.INFO: Interakt Event Track Request: {"phoneNumber":"9322186758","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 13:15:48] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"a7792fab-334f-4cc9-a15d-717b38d76ad4"}  
+[2026-10-16 13:15:48] production.INFO: Interakt Event Track Error:   
+[2026-10-16 13:15:48] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 13:15:48] production.INFO: interakt_message error :   
+[2026-10-16 13:17:49] production.INFO: Interakt User Track Request: {"phoneNumber":"7668846540","countryCode":"+91","traits":{"name":"Altab Khan"},"tags":["Self Get Offer"]}  
+[2026-10-16 13:17:50] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 2695ca9d-ee80-4ba3-b1d3-64c5c283dddd updated successfully"}  
+[2026-10-16 13:17:50] production.INFO: Interakt User Track Error:   
+[2026-10-16 13:17:50] production.INFO: Interakt Event Track Request: {"phoneNumber":"7668846540","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 13:17:50] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"fd2defcf-c26b-4c04-a3f5-72c83129bc82"}  
+[2026-10-16 13:17:50] production.INFO: Interakt Event Track Error:   
+[2026-10-16 13:17:50] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 13:17:50] production.INFO: interakt_message error :   
+[2026-10-16 13:18:42] production.INFO: Interakt User Track Request: {"phoneNumber":"7668846540","countryCode":"+91","traits":{"name":"Altab Khan"},"tags":["Self Get Offer"]}  
+[2026-10-16 13:18:43] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 2695ca9d-ee80-4ba3-b1d3-64c5c283dddd updated successfully"}  
+[2026-10-16 13:18:43] production.INFO: Interakt User Track Error:   
+[2026-10-16 13:18:43] production.INFO: Interakt Event Track Request: {"phoneNumber":"7668846540","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 13:18:43] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"8a45c8ba-7efc-4397-a81e-f180e9a8dd06"}  
+[2026-10-16 13:18:43] production.INFO: Interakt Event Track Error:   
+[2026-10-16 13:18:43] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 13:18:43] production.INFO: interakt_message error :   
+[2026-10-16 14:15:59] production.INFO: Interakt User Track Request: {"phoneNumber":"8943407338","countryCode":"+91","traits":{"name":"Jayadevan N"},"tags":["Self Get Offer"]}  
+[2026-10-16 14:15:59] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id dffcf829-883b-40d0-a458-a7838a3e79c1 updated successfully"}  
+[2026-10-16 14:15:59] production.INFO: Interakt User Track Error:   
+[2026-10-16 14:15:59] production.INFO: Interakt Event Track Request: {"phoneNumber":"8943407338","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 14:15:59] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"82c4ca26-e168-4179-8a85-367fa17764ec"}  
+[2026-10-16 14:15:59] production.INFO: Interakt Event Track Error:   
+[2026-10-16 14:15:59] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 14:15:59] production.INFO: interakt_message error :   
+[2026-10-16 14:23:21] production.INFO: Interakt User Track Request: {"phoneNumber":"9500816147","countryCode":"+91","traits":{"name":"Ravichandran M"},"tags":["Self Get Offer"]}  
+[2026-10-16 14:23:21] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id e27870fd-9934-4bc5-9794-155efe871243 updated successfully"}  
+[2026-10-16 14:23:21] production.INFO: Interakt User Track Error:   
+[2026-10-16 14:23:21] production.INFO: Interakt Event Track Request: {"phoneNumber":"9500816147","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 14:23:22] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"e91e06b0-a2ee-4c95-aeda-0dcdf74ba53c"}  
+[2026-10-16 14:23:22] production.INFO: Interakt Event Track Error:   
+[2026-10-16 14:23:22] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 14:23:22] production.INFO: interakt_message error :   
+[2026-10-16 14:24:44] production.INFO: Interakt Event Track Request: {"phoneNumber":"9500816147","countryCode":"+91","event":"Self Payment Failed"}  
+[2026-10-16 14:24:44] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"aacad0f7-4a9c-4d7f-8f6a-dd83c9494542"}  
+[2026-10-16 14:24:44] production.INFO: Interakt Event Track Error:   
+[2026-10-16 14:33:53] production.INFO: Interakt User Track Request: {"phoneNumber":"9601661601","countryCode":"+91","traits":{"name":"Priteshkumar Patel"},"tags":["Self Get Offer"]}  
+[2026-10-16 14:33:53] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 84950d49-8dd6-4684-ad53-4d5737e6236f updated successfully"}  
+[2026-10-16 14:33:53] production.INFO: Interakt User Track Error:   
+[2026-10-16 14:33:53] production.INFO: Interakt Event Track Request: {"phoneNumber":"9601661601","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":538271}}  
+[2026-10-16 14:33:53] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"1e587f54-8cfc-4ba4-ab6a-4eaddc5ac824"}  
+[2026-10-16 14:33:53] production.INFO: Interakt Event Track Error:   
+[2026-10-16 14:33:53] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 14:33:53] production.INFO: interakt_message error :   
+[2026-10-16 14:41:20] production.INFO: Interakt User Track Request: {"phoneNumber":"9787046056","countryCode":"+91","traits":{"name":"Ondiyappan Arumugam"},"tags":["Self Get Offer"]}  
+[2026-10-16 14:41:20] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id f4be358e-d765-484b-b731-97d34c7c5c8c updated successfully"}  
+[2026-10-16 14:41:20] production.INFO: Interakt User Track Error:   
+[2026-10-16 14:41:20] production.INFO: Interakt Event Track Request: {"phoneNumber":"9787046056","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 14:41:21] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"4f541758-2a3e-4191-accc-9cc4e5ac1865"}  
+[2026-10-16 14:41:21] production.INFO: Interakt Event Track Error:   
+[2026-10-16 14:41:21] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 14:41:21] production.INFO: interakt_message error :   
+[2026-10-16 14:41:42] production.INFO: Interakt User Track Request: {"phoneNumber":"9412037122","countryCode":"+91","traits":{"name":"Navin Upreti"},"tags":["Self Get Offer"]}  
+[2026-10-16 14:41:42] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 5f31e1d6-1c1b-4379-ab5f-b8e1c72f0790 updated successfully"}  
+[2026-10-16 14:41:42] production.INFO: Interakt User Track Error:   
+[2026-10-16 14:41:42] production.INFO: Interakt Event Track Request: {"phoneNumber":"9412037122","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":875000}}  
+[2026-10-16 14:41:42] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"0d28e12f-b8dc-42f7-b7a9-f38565dec1ab"}  
+[2026-10-16 14:41:42] production.INFO: Interakt Event Track Error:   
+[2026-10-16 14:41:42] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 14:41:42] production.INFO: interakt_message error :   
+[2026-10-16 14:42:12] production.INFO: Interakt User Track Request: {"phoneNumber":"9787046056","countryCode":"+91","traits":{"name":"Ondiyappan Arumugam"},"tags":["Self Get Offer"]}  
+[2026-10-16 14:42:13] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id f4be358e-d765-484b-b731-97d34c7c5c8c updated successfully"}  
+[2026-10-16 14:42:13] production.INFO: Interakt User Track Error:   
+[2026-10-16 14:42:13] production.INFO: Interakt Event Track Request: {"phoneNumber":"9787046056","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 14:42:13] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"9ea47db1-f927-462a-a858-741283174b81"}  
+[2026-10-16 14:42:13] production.INFO: Interakt Event Track Error:   
+[2026-10-16 14:42:13] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 14:42:13] production.INFO: interakt_message error :   
+[2026-10-16 14:44:53] production.INFO: Interakt User Track Request: {"phoneNumber":"7975435415","countryCode":"+91","traits":{"name":"B harisha B harisha"},"tags":["Self Get Offer"]}  
+[2026-10-16 14:44:53] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id c5cfd36a-5b87-4bc6-884c-e581d4e8ca8f updated successfully"}  
+[2026-10-16 14:44:53] production.INFO: Interakt User Track Error:   
+[2026-10-16 14:44:54] production.INFO: Interakt Event Track Request: {"phoneNumber":"7975435415","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":246913}}  
+[2026-10-16 14:44:54] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"335834de-d2a1-45a3-99bd-07b161811074"}  
+[2026-10-16 14:44:54] production.INFO: Interakt Event Track Error:   
+[2026-10-16 14:44:54] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 14:44:54] production.INFO: interakt_message error :   
+[2026-10-16 14:47:52] production.INFO: response{"messageId":"<202610160917.90904951660@smtp-relay.mailin.fr>"}
+  
+[2026-10-16 14:47:52] production.INFO: err  
+[2026-10-16 14:47:52] production.INFO: Order API Request: {"remote_data":{"company_code":"QIKBRW5678","company_local_ip":"190.92.174.183","product_code":"SELFAPPLY","customer_name":"B harisha B harisha","customer_email":"harishkandahalli16@gmail.com","customer_mobile":"7975435415","userid":3648,"card_number":"0045473782936182","rec_date":"2026-10-16 14:47:52","inv_prefix":"SA_","inv_number":"214","inv_date":"2026-10-16","inv_price":299.0,"inv_cgst":0,"inv_sgst":0,"inv_igst":53.0,"inv_grandtotal":352.0}} 
+[2026-10-16 14:47:52] production.INFO: Order API Response: {"response":{"type":"SUCCESS","http":200,"data":{"type":"SUCCESS","message":"Partner turnover inserted successfully."}}} 
+[2026-10-16 14:47:52] production.INFO: paymentSuccess data - []  
+[2026-10-16 14:47:52] production.INFO: paymentSuccess - loanType: 1, applyId: 3641, orderId: order_ToWiPm49Py7ZTX, responsecode: 100  
+[2026-10-16 14:47:52] production.INFO: Facebook Conversion API Response {"response":"{\"events_received\":1,\"messages\":[],\"fbtrace_id\":\"ArVbPqJXrdKtr6Hp2nRqByV\"}","decoded_response":{"events_received":1,"messages":[],"fbtrace_id":"ArVbPqJXrdKtr6Hp2nRqByV"},"curl_error":"","curl_errno":0,"http_code":200} 
+[2026-10-16 14:47:52] production.INFO: Interakt User Track Request: {"phoneNumber":"7975435415","countryCode":"+91","traits":{"name":"B harisha B harisha"},"tags":["Self Payment Successful"]}  
+[2026-10-16 14:47:53] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id c5cfd36a-5b87-4bc6-884c-e581d4e8ca8f updated successfully"}  
+[2026-10-16 14:47:53] production.INFO: Interakt User Track Error:   
+[2026-10-16 14:47:53] production.INFO: Interakt Event Track Request: {"phoneNumber":"7975435415","countryCode":"+91","event":"Self Payment Successful","traits":{"userid":"7975435415","userpass":"o13Mgq"}}  
+[2026-10-16 14:47:53] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"1da1ffc2-5588-4b36-9dbd-8879f4396073"}  
+[2026-10-16 14:47:53] production.INFO: Interakt Event Track Error:   
+[2026-10-16 14:48:43] production.INFO: array (
+  'mobile' => '7975435415',
+  'password' => 'o13Mgq',
+  'isDelete' => 0,
+)  
+[2026-10-16 15:03:26] production.INFO: Interakt User Track Request: {"phoneNumber":"9556855336","countryCode":"+91","traits":{"name":"Bapi Sethi"},"tags":["Self Get Offer"]}  
+[2026-10-16 15:03:26] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 5b23d057-6be1-40e8-8340-587f08086381 updated successfully"}  
+[2026-10-16 15:03:26] production.INFO: Interakt User Track Error:   
+[2026-10-16 15:03:26] production.INFO: Interakt Event Track Request: {"phoneNumber":"9556855336","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":226300}}  
+[2026-10-16 15:03:26] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"4b1013bb-ed15-4727-8210-09ee6392ad09"}  
+[2026-10-16 15:03:26] production.INFO: Interakt Event Track Error:   
+[2026-10-16 15:03:26] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 15:03:26] production.INFO: interakt_message error :   
+[2026-10-16 15:26:36] production.INFO: Interakt User Track Request: {"phoneNumber":"9315770899","countryCode":"+91","traits":{"name":"Jasbir Sinhj"},"tags":["Self Get Offer"]}  
+[2026-10-16 15:26:36] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id fa7176ba-4353-4c8c-8ad2-2bea6f2e923d updated successfully"}  
+[2026-10-16 15:26:36] production.INFO: Interakt User Track Error:   
+[2026-10-16 15:26:36] production.INFO: Interakt Event Track Request: {"phoneNumber":"9315770899","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":875000}}  
+[2026-10-16 15:26:37] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"ee94d74a-1ae9-4ca2-9f3f-f3154e47311d"}  
+[2026-10-16 15:26:37] production.INFO: Interakt Event Track Error:   
+[2026-10-16 15:26:37] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 15:26:37] production.INFO: interakt_message error :   
+[2026-10-16 15:27:34] production.INFO: response{"messageId":"<202610160957.20335034723@smtp-relay.mailin.fr>"}
+  
+[2026-10-16 15:27:34] production.INFO: err  
+[2026-10-16 15:27:34] production.INFO: Order API Request: {"remote_data":{"company_code":"QIKBRW5678","company_local_ip":"190.92.174.183","product_code":"SELFAPPLY","customer_name":"Jasbir Sinhj","customer_email":"jasbirsingh19622@gmail.com","customer_mobile":"9315770899","userid":3652,"card_number":"0037667423851518","rec_date":"2026-10-16 15:27:34","inv_prefix":"SA_","inv_number":"215","inv_date":"2026-10-16","inv_price":299.0,"inv_cgst":0,"inv_sgst":0,"inv_igst":53.0,"inv_grandtotal":352.0}} 
+[2026-10-16 15:27:34] production.INFO: Order API Response: {"response":{"type":"SUCCESS","http":200,"data":{"type":"SUCCESS","message":"Partner turnover inserted successfully."}}} 
+[2026-10-16 15:27:34] production.INFO: paymentSuccess data - []  
+[2026-10-16 15:27:34] production.INFO: paymentSuccess - loanType: 1, applyId: 3645, orderId: order_ToXQHAPJOEzJ4V, responsecode: 100  
+[2026-10-16 15:27:35] production.INFO: Facebook Conversion API Response {"response":"{\"events_received\":1,\"messages\":[],\"fbtrace_id\":\"AyDDVug5nWGYKX_nhS3h6DK\"}","decoded_response":{"events_received":1,"messages":[],"fbtrace_id":"AyDDVug5nWGYKX_nhS3h6DK"},"curl_error":"","curl_errno":0,"http_code":200} 
+[2026-10-16 15:27:35] production.INFO: Interakt User Track Request: {"phoneNumber":"9315770899","countryCode":"+91","traits":{"name":"Jasbir Sinhj"},"tags":["Self Payment Successful"]}  
+[2026-10-16 15:27:35] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id fa7176ba-4353-4c8c-8ad2-2bea6f2e923d updated successfully"}  
+[2026-10-16 15:27:35] production.INFO: Interakt User Track Error:   
+[2026-10-16 15:27:35] production.INFO: Interakt Event Track Request: {"phoneNumber":"9315770899","countryCode":"+91","event":"Self Payment Successful","traits":{"userid":"9315770899","userpass":"ed0wc1"}}  
+[2026-10-16 15:27:35] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"bc12d442-4e92-4c28-8639-2b9c61442c9d"}  
+[2026-10-16 15:27:35] production.INFO: Interakt Event Track Error:   
+[2026-10-16 15:28:12] production.INFO: Interakt User Track Request: {"phoneNumber":"9380934959","countryCode":"+91","traits":{"name":"KAVITHA Sivakumar"},"tags":["Self Get Offer"]}  
+[2026-10-16 15:28:12] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 5c69f9d7-e89a-4e8a-bd5d-dea9f140e20d updated successfully"}  
+[2026-10-16 15:28:12] production.INFO: Interakt User Track Error:   
+[2026-10-16 15:28:12] production.INFO: Interakt Event Track Request: {"phoneNumber":"9380934959","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":875000}}  
+[2026-10-16 15:28:12] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"9a781f62-68c5-4059-87d3-11291edf41ba"}  
+[2026-10-16 15:28:12] production.INFO: Interakt Event Track Error:   
+[2026-10-16 15:28:12] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 15:28:12] production.INFO: interakt_message error :   
+[2026-10-16 15:30:24] production.INFO: self apply send otp function error - Undefined array key "loan_type"  
+[2026-10-16 15:40:02] production.INFO: Interakt User Track Request: {"phoneNumber":"9000718744","countryCode":"+91","traits":{"name":"Kadari Thirupathi"},"tags":["Self Get Offer"]}  
+[2026-10-16 15:40:02] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 9f3986f6-ff0e-49a6-b0b0-e331db3aec88 updated successfully"}  
+[2026-10-16 15:40:02] production.INFO: Interakt User Track Error:   
+[2026-10-16 15:40:02] production.INFO: Interakt Event Track Request: {"phoneNumber":"9000718744","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 15:40:02] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"fd78a808-2458-4de0-a6d2-253216bd2fb7"}  
+[2026-10-16 15:40:02] production.INFO: Interakt Event Track Error:   
+[2026-10-16 15:40:02] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 15:40:02] production.INFO: interakt_message error :   
+[2026-10-16 15:47:33] production.INFO: self apply send otp function error - Undefined array key "loan_type"  
+[2026-10-16 15:49:31] production.INFO: Interakt User Track Request: {"phoneNumber":"7709915547","countryCode":"+91","traits":{"name":"Mahesh Khandelwal"},"tags":["Self Get Offer"]}  
+[2026-10-16 15:49:32] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id c62073e1-2f22-4baf-b4d4-922e33a536ad updated successfully"}  
+[2026-10-16 15:49:32] production.INFO: Interakt User Track Error:   
+[2026-10-16 15:49:32] production.INFO: Interakt Event Track Request: {"phoneNumber":"7709915547","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":576036}}  
+[2026-10-16 15:49:32] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"07147ce4-f935-4321-8941-261cc3087117"}  
+[2026-10-16 15:49:32] production.INFO: Interakt Event Track Error:   
+[2026-10-16 15:49:32] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 15:49:32] production.INFO: interakt_message error :   
+[2026-10-16 15:50:31] production.INFO: response{"messageId":"<202610161020.66526203648@smtp-relay.mailin.fr>"}
+  
+[2026-10-16 15:50:31] production.INFO: err  
+[2026-10-16 15:50:31] production.INFO: Order API Request: {"remote_data":{"company_code":"QIKBRW5678","company_local_ip":"190.92.174.183","product_code":"SELFAPPLY","customer_name":"Mahesh Khandelwal","customer_email":"maheshkhandelwal7848@gmail.com","customer_mobile":"7709915547","userid":3655,"card_number":"0526898143540729","rec_date":"2026-10-16 15:50:31","inv_prefix":"SA_","inv_number":"216","inv_date":"2026-10-16","inv_price":299.0,"inv_cgst":0,"inv_sgst":0,"inv_igst":53.0,"inv_grandtotal":352.0}} 
+[2026-10-16 15:50:31] production.INFO: Order API Response: {"response":{"type":"SUCCESS","http":200,"data":{"type":"SUCCESS","message":"Partner turnover inserted successfully."}}} 
+[2026-10-16 15:50:31] production.INFO: paymentSuccess data - []  
+[2026-10-16 15:50:31] production.INFO: paymentSuccess - loanType: 1, applyId: 3648, orderId: order_ToXoXyoRK6ssVU, responsecode: 100  
+[2026-10-16 15:50:31] production.INFO: Facebook Conversion API Response {"response":"{\"events_received\":1,\"messages\":[],\"fbtrace_id\":\"AtxE5HJaNJ6-vXIOX3i0fig\"}","decoded_response":{"events_received":1,"messages":[],"fbtrace_id":"AtxE5HJaNJ6-vXIOX3i0fig"},"curl_error":"","curl_errno":0,"http_code":200} 
+[2026-10-16 15:50:31] production.INFO: Interakt User Track Request: {"phoneNumber":"7709915547","countryCode":"+91","traits":{"name":"Mahesh Khandelwal"},"tags":["Self Payment Successful"]}  
+[2026-10-16 15:50:31] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id c62073e1-2f22-4baf-b4d4-922e33a536ad updated successfully"}  
+[2026-10-16 15:50:31] production.INFO: Interakt User Track Error:   
+[2026-10-16 15:50:31] production.INFO: Interakt Event Track Request: {"phoneNumber":"7709915547","countryCode":"+91","event":"Self Payment Successful","traits":{"userid":"7709915547","userpass":"08o5TA"}}  
+[2026-10-16 15:50:32] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"5b373589-95db-4321-a42f-159bb32758f0"}  
+[2026-10-16 15:50:32] production.INFO: Interakt Event Track Error:   
+[2026-10-16 15:50:38] production.INFO: array (
+  'mobile' => '7709915547',
+  'password' => '08o5TA',
+  'isDelete' => 0,
+)  
+[2026-10-16 16:07:17] production.INFO: Interakt User Track Request: {"phoneNumber":"8089183166","countryCode":"+91","traits":{"name":"Sibin Issac"},"tags":["Self Get Offer"]}  
+[2026-10-16 16:07:17] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id a881efa0-77f6-4746-a4bd-c73e0e3d8b41 updated successfully"}  
+[2026-10-16 16:07:17] production.INFO: Interakt User Track Error:   
+[2026-10-16 16:07:17] production.INFO: Interakt Event Track Request: {"phoneNumber":"8089183166","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 16:07:17] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"a689c2c3-5513-42a9-9ab5-c241139405cc"}  
+[2026-10-16 16:07:17] production.INFO: Interakt Event Track Error:   
+[2026-10-16 16:07:17] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 16:07:17] production.INFO: interakt_message error :   
+[2026-10-16 16:18:36] production.INFO: Interakt User Track Request: {"phoneNumber":"9963332627","countryCode":"+91","traits":{"name":"Mohammed Aeez Uddin"},"tags":["Self Get Offer"]}  
+[2026-10-16 16:18:36] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id da7d273c-3ba2-4732-9eb2-88ba462b0135 updated successfully"}  
+[2026-10-16 16:18:36] production.INFO: Interakt User Track Error:   
+[2026-10-16 16:18:36] production.INFO: Interakt Event Track Request: {"phoneNumber":"9963332627","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 16:18:36] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"ad26953d-8f67-4330-bd3f-f0c2702001b8"}  
+[2026-10-16 16:18:36] production.INFO: Interakt Event Track Error:   
+[2026-10-16 16:18:36] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 16:18:36] production.INFO: interakt_message error :   
+[2026-10-16 16:19:51] production.INFO: Interakt User Track Request: {"phoneNumber":"9961332480","countryCode":"+91","traits":{"name":"TELMA MICHEL"},"tags":["Self Get Offer"]}  
+[2026-10-16 16:19:51] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 9f0c4324-f528-45c5-b948-4a4bf58c2ed3 updated successfully"}  
+[2026-10-16 16:19:51] production.INFO: Interakt User Track Error:   
+[2026-10-16 16:19:51] production.INFO: Interakt Event Track Request: {"phoneNumber":"9961332480","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 16:19:51] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"de5e2733-af8c-4604-b50b-bafc49e7b13b"}  
+[2026-10-16 16:19:51] production.INFO: Interakt Event Track Error:   
+[2026-10-16 16:19:51] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 16:19:51] production.INFO: interakt_message error :   
+[2026-10-16 16:24:10] production.INFO: Interakt User Track Request: {"phoneNumber":"9358693493","countryCode":"+91","traits":{"name":"Raj Jorwal"},"tags":["Self Get Offer"]}  
+[2026-10-16 16:24:11] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 5e3dbce9-6811-4a44-aa2d-28b4b7165db9 updated successfully"}  
+[2026-10-16 16:24:11] production.INFO: Interakt User Track Error:   
+[2026-10-16 16:24:11] production.INFO: Interakt Event Track Request: {"phoneNumber":"9358693493","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":658300}}  
+[2026-10-16 16:24:11] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"0d37c9c5-1cdc-4162-8120-24b5dfc91210"}  
+[2026-10-16 16:24:11] production.INFO: Interakt Event Track Error:   
+[2026-10-16 16:24:11] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 16:24:11] production.INFO: interakt_message error :   
+[2026-10-16 16:24:47] production.INFO: Interakt Event Track Request: {"phoneNumber":"9358693493","countryCode":"+91","event":"Self Payment Failed"}  
+[2026-10-16 16:24:47] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"65f84823-c33a-4a84-a879-c1362b8ce4f6"}  
+[2026-10-16 16:24:47] production.INFO: Interakt Event Track Error:   
+[2026-10-16 16:25:09] production.INFO: Interakt User Track Request: {"phoneNumber":"9486369464","countryCode":"+91","traits":{"name":"Raja Rajendhiran"},"tags":["Self Get Offer"]}  
+[2026-10-16 16:25:10] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 7d13be64-3342-484f-820f-f242274251e6 updated successfully"}  
+[2026-10-16 16:25:10] production.INFO: Interakt User Track Error:   
+[2026-10-16 16:25:10] production.INFO: Interakt Event Track Request: {"phoneNumber":"9486369464","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 16:25:10] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"05a48838-298e-4d48-9eaa-d2ae3ef37a3d"}  
+[2026-10-16 16:25:10] production.INFO: Interakt Event Track Error:   
+[2026-10-16 16:25:10] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 16:25:10] production.INFO: interakt_message error :   
+[2026-10-16 16:38:36] production.INFO: Interakt User Track Request: {"phoneNumber":"9963332627","countryCode":"+91","traits":{"name":"Mohammed Aeez Uddin"},"tags":["Self Get Offer"]}  
+[2026-10-16 16:38:37] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id da7d273c-3ba2-4732-9eb2-88ba462b0135 updated successfully"}  
+[2026-10-16 16:38:37] production.INFO: Interakt User Track Error:   
+[2026-10-16 16:38:37] production.INFO: Interakt Event Track Request: {"phoneNumber":"9963332627","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 16:38:37] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"ec3248c4-b029-4c8a-bdf2-3152b4d3e6a6"}  
+[2026-10-16 16:38:37] production.INFO: Interakt Event Track Error:   
+[2026-10-16 16:38:37] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 16:38:37] production.INFO: interakt_message error :   
+[2026-10-16 17:02:14] production.INFO: Interakt User Track Request: {"phoneNumber":"7667590510","countryCode":"+91","traits":{"name":"Anjali Kumari"},"tags":["Self Get Offer"]}  
+[2026-10-16 17:02:15] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id c335794e-302e-454b-986d-b1c158464a55 updated successfully"}  
+[2026-10-16 17:02:15] production.INFO: Interakt User Track Error:   
+[2026-10-16 17:02:15] production.INFO: Interakt Event Track Request: {"phoneNumber":"7667590510","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 17:02:15] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"0a87163d-dd67-4264-bce7-ec34992671ee"}  
+[2026-10-16 17:02:15] production.INFO: Interakt Event Track Error:   
+[2026-10-16 17:02:15] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 17:02:15] production.INFO: interakt_message error :   
+[2026-10-16 17:34:09] production.INFO: Interakt User Track Request: {"phoneNumber":"7721911730","countryCode":"+91","traits":{"name":"Dipak Patil"},"tags":["Self Get Offer"]}  
+[2026-10-16 17:34:10] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 6511dbb8-55d2-447b-86f4-0c876614c8ef updated successfully"}  
+[2026-10-16 17:34:10] production.INFO: Interakt User Track Error:   
+[2026-10-16 17:34:10] production.INFO: Interakt Event Track Request: {"phoneNumber":"7721911730","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 17:34:10] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"6433bc0c-85ee-402f-a517-15d21f3e2325"}  
+[2026-10-16 17:34:10] production.INFO: Interakt Event Track Error:   
+[2026-10-16 17:34:10] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 17:34:10] production.INFO: interakt_message error :   
+[2026-10-16 17:46:48] production.INFO: Interakt User Track Request: {"phoneNumber":"7830070232","countryCode":"+91","traits":{"name":"Manveer Singh"},"tags":["Self Get Offer"]}  
+[2026-10-16 17:46:48] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 86c99007-4c4b-439e-a785-70547e27e53a updated successfully"}  
+[2026-10-16 17:46:48] production.INFO: Interakt User Track Error:   
+[2026-10-16 17:46:48] production.INFO: Interakt Event Track Request: {"phoneNumber":"7830070232","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 17:46:48] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"44fadf50-ba8c-489c-99d8-d143e3e69167"}  
+[2026-10-16 17:46:48] production.INFO: Interakt Event Track Error:   
+[2026-10-16 17:46:48] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 17:46:48] production.INFO: interakt_message error :   
+[2026-10-16 17:48:21] production.INFO: Interakt User Track Request: {"phoneNumber":"7830070232","countryCode":"+91","traits":{"name":"Manveer Singh"},"tags":["Self Get Offer"]}  
+[2026-10-16 17:48:21] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 86c99007-4c4b-439e-a785-70547e27e53a updated successfully"}  
+[2026-10-16 17:48:21] production.INFO: Interakt User Track Error:   
+[2026-10-16 17:48:21] production.INFO: Interakt Event Track Request: {"phoneNumber":"7830070232","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 17:48:22] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"e3c125aa-63f4-4ed9-acec-6ad9defdeffc"}  
+[2026-10-16 17:48:22] production.INFO: Interakt Event Track Error:   
+[2026-10-16 17:48:22] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 17:48:22] production.INFO: interakt_message error :   
+[2026-10-16 17:49:25] production.INFO: Interakt User Track Request: {"phoneNumber":"7830070232","countryCode":"+91","traits":{"name":"Manveer Singh"},"tags":["Self Get Offer"]}  
+[2026-10-16 17:49:25] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 86c99007-4c4b-439e-a785-70547e27e53a updated successfully"}  
+[2026-10-16 17:49:25] production.INFO: Interakt User Track Error:   
+[2026-10-16 17:49:25] production.INFO: Interakt Event Track Request: {"phoneNumber":"7830070232","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 17:49:25] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"3ba8c912-f26d-4dc8-b135-e29b87260e9e"}  
+[2026-10-16 17:49:25] production.INFO: Interakt Event Track Error:   
+[2026-10-16 17:49:25] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 17:49:25] production.INFO: interakt_message error :   
+[2026-10-16 17:50:00] production.INFO: Interakt Event Track Request: {"phoneNumber":"7830070232","countryCode":"+91","event":"Self Payment Failed"}  
+[2026-10-16 17:50:00] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"73ab5d36-5b36-4dba-adcb-8af9afc9084a"}  
+[2026-10-16 17:50:00] production.INFO: Interakt Event Track Error:   
+[2026-10-16 17:50:44] production.INFO: response{"messageId":"<202610161220.89906406948@smtp-relay.mailin.fr>"}
+  
+[2026-10-16 17:50:44] production.INFO: err  
+[2026-10-16 17:50:44] production.INFO: Order API Request: {"remote_data":{"company_code":"QIKBRW5678","company_local_ip":"190.92.174.183","product_code":"SELFAPPLY","customer_name":"Manveer Singh","customer_email":"manveersingh30812@gmail.com","customer_mobile":"7830070232","userid":3658,"card_number":"5060283286153749","rec_date":"2026-10-16 17:50:44","inv_prefix":"SA_","inv_number":"217","inv_date":"2026-10-16","inv_price":299.0,"inv_cgst":0,"inv_sgst":0,"inv_igst":53.0,"inv_grandtotal":352.0}} 
+[2026-10-16 17:50:44] production.INFO: Order API Response: {"response":{"type":"SUCCESS","http":200,"data":{"type":"SUCCESS","message":"Partner turnover inserted successfully."}}} 
+[2026-10-16 17:50:45] production.INFO: paymentSuccess data - []  
+[2026-10-16 17:50:45] production.INFO: paymentSuccess - loanType: 1, applyId: 3651, orderId: order_ToZr4tFvMoyOxS, responsecode: 100  
+[2026-10-16 17:50:45] production.INFO: Facebook Conversion API Response {"response":"{\"events_received\":1,\"messages\":[],\"fbtrace_id\":\"AhMX_qztCPGlo7NyL9pfDmD\"}","decoded_response":{"events_received":1,"messages":[],"fbtrace_id":"AhMX_qztCPGlo7NyL9pfDmD"},"curl_error":"","curl_errno":0,"http_code":200} 
+[2026-10-16 17:50:45] production.INFO: Interakt User Track Request: {"phoneNumber":"7830070232","countryCode":"+91","traits":{"name":"Manveer Singh"},"tags":["Self Payment Successful"]}  
+[2026-10-16 17:50:46] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 86c99007-4c4b-439e-a785-70547e27e53a updated successfully"}  
+[2026-10-16 17:50:46] production.INFO: Interakt User Track Error:   
+[2026-10-16 17:50:46] production.INFO: Interakt Event Track Request: {"phoneNumber":"7830070232","countryCode":"+91","event":"Self Payment Successful","traits":{"userid":"7830070232","userpass":"92YLJK"}}  
+[2026-10-16 17:50:46] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"cc80ec42-bffc-45fa-97d6-736c234b98a6"}  
+[2026-10-16 17:50:46] production.INFO: Interakt Event Track Error:   
+[2026-10-16 17:50:52] production.INFO: array (
+  'mobile' => '7830070232',
+  'password' => '92YLJK',
+  'isDelete' => 0,
+)  
+[2026-10-16 18:22:53] production.INFO: Interakt User Track Request: {"phoneNumber":"9445249105","countryCode":"+91","traits":{"name":"Lingapandi Pandi"},"tags":["Self Get Offer"]}  
+[2026-10-16 18:22:54] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 0cbaf79d-e47a-4e66-91a9-82c71aeb0d96 updated successfully"}  
+[2026-10-16 18:22:54] production.INFO: Interakt User Track Error:   
+[2026-10-16 18:22:54] production.INFO: Interakt Event Track Request: {"phoneNumber":"9445249105","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 18:22:54] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"7afbad4f-d1d9-49d7-8993-35ac687004ea"}  
+[2026-10-16 18:22:54] production.INFO: Interakt Event Track Error:   
+[2026-10-16 18:22:54] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 18:22:54] production.INFO: interakt_message error :   
+[2026-10-16 18:31:28] production.INFO: Interakt User Track Request: {"phoneNumber":"8489259893","countryCode":"+91","traits":{"name":"Karthikeyan S"},"tags":["Self Get Offer"]}  
+[2026-10-16 18:31:28] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 9cd36cdf-e2a4-4dbe-a323-dce46f9ec0a3 updated successfully"}  
+[2026-10-16 18:31:28] production.INFO: Interakt User Track Error:   
+[2026-10-16 18:31:28] production.INFO: Interakt Event Track Request: {"phoneNumber":"8489259893","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 18:31:28] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"0fa4087b-6c42-41c4-ab14-b5e4681d65f3"}  
+[2026-10-16 18:31:28] production.INFO: Interakt Event Track Error:   
+[2026-10-16 18:31:29] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 18:31:29] production.INFO: interakt_message error :   
+[2026-10-16 18:55:00] production.INFO: Interakt User Track Request: {"phoneNumber":"9904157539","countryCode":"+91","traits":{"name":"Jagdish Kotadiya"},"tags":["Self Get Offer"]}  
+[2026-10-16 18:55:00] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 17b6a1e1-d435-48b7-931b-9803854ba458 updated successfully"}  
+[2026-10-16 18:55:00] production.INFO: Interakt User Track Error:   
+[2026-10-16 18:55:00] production.INFO: Interakt Event Track Request: {"phoneNumber":"9904157539","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":452600}}  
+[2026-10-16 18:55:01] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"383f38a6-da1f-49a9-9482-529798ee0b0a"}  
+[2026-10-16 18:55:01] production.INFO: Interakt Event Track Error:   
+[2026-10-16 18:55:01] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 18:55:01] production.INFO: interakt_message error :   
+[2026-10-16 18:57:43] production.INFO: response{"messageId":"<202610161327.40553626724@smtp-relay.mailin.fr>"}
+  
+[2026-10-16 18:57:43] production.INFO: err  
+[2026-10-16 18:57:43] production.INFO: Order API Request: {"remote_data":{"company_code":"QIKBRW5678","company_local_ip":"190.92.174.183","product_code":"SELFAPPLY","customer_name":"Jagdish Kotadiya","customer_email":"jagdishkotadiya100@gmail.com","customer_mobile":"9904157539","userid":3661,"card_number":"4097204588116639","rec_date":"2026-10-16 18:57:43","inv_prefix":"SA_","inv_number":"218","inv_date":"2026-10-16","inv_price":299.0,"inv_cgst":26.0,"inv_sgst":26.0,"inv_igst":0,"inv_grandtotal":351.0}} 
+[2026-10-16 18:57:43] production.INFO: Order API Response: {"response":{"type":"SUCCESS","http":200,"data":{"type":"SUCCESS","message":"Partner turnover inserted successfully."}}} 
+[2026-10-16 18:57:43] production.INFO: paymentSuccess data - []  
+[2026-10-16 18:57:43] production.INFO: paymentSuccess - loanType: 1, applyId: 3654, orderId: order_Tob0BuYitrqYac, responsecode: 100  
+[2026-10-16 18:57:44] production.INFO: Facebook Conversion API Response {"response":"{\"events_received\":1,\"messages\":[],\"fbtrace_id\":\"APNL3zFD3Wc0xheL5KstgCA\"}","decoded_response":{"events_received":1,"messages":[],"fbtrace_id":"APNL3zFD3Wc0xheL5KstgCA"},"curl_error":"","curl_errno":0,"http_code":200} 
+[2026-10-16 18:57:44] production.INFO: Interakt User Track Request: {"phoneNumber":"9904157539","countryCode":"+91","traits":{"name":"Jagdish Kotadiya"},"tags":["Self Payment Successful"]}  
+[2026-10-16 18:57:44] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 17b6a1e1-d435-48b7-931b-9803854ba458 updated successfully"}  
+[2026-10-16 18:57:44] production.INFO: Interakt User Track Error:   
+[2026-10-16 18:57:44] production.INFO: Interakt Event Track Request: {"phoneNumber":"9904157539","countryCode":"+91","event":"Self Payment Successful","traits":{"userid":"9904157539","userpass":"D49Bo8"}}  
+[2026-10-16 18:57:44] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"ac6ad223-8e45-47ff-9f19-1dc36637cf12"}  
+[2026-10-16 18:57:44] production.INFO: Interakt Event Track Error:   
+[2026-10-16 18:57:56] production.INFO: array (
+  'mobile' => '9904157539',
+  'password' => 'D49Bo8',
+  'isDelete' => 0,
+)  
+[2026-10-16 19:37:28] production.INFO: Interakt User Track Request: {"phoneNumber":"7903007904","countryCode":"+91","traits":{"name":"Intakhab Ahmad"},"tags":["Self Get Offer"]}  
+[2026-10-16 19:37:28] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 69d6472f-d466-4188-b2aa-c78d9c0d356b updated successfully"}  
+[2026-10-16 19:37:28] production.INFO: Interakt User Track Error:   
+[2026-10-16 19:37:28] production.INFO: Interakt Event Track Request: {"phoneNumber":"7903007904","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":674747}}  
+[2026-10-16 19:37:29] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"e31e1a7a-0fd6-4bad-87cb-55f622bca737"}  
+[2026-10-16 19:37:29] production.INFO: Interakt Event Track Error:   
+[2026-10-16 19:37:29] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 19:37:29] production.INFO: interakt_message error :   
+[2026-10-16 19:38:11] production.INFO: Interakt User Track Request: {"phoneNumber":"9618052659","countryCode":"+91","traits":{"name":"Lakavath.srinu L.srinu"},"tags":["Self Get Offer"]}  
+[2026-10-16 19:38:11] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id f9e926f6-edbb-4c26-ac46-889875e9b5bc updated successfully"}  
+[2026-10-16 19:38:11] production.INFO: Interakt User Track Error:   
+[2026-10-16 19:38:11] production.INFO: Interakt Event Track Request: {"phoneNumber":"9618052659","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 19:38:11] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"51837c6a-f095-4503-82cf-b62fa77b5421"}  
+[2026-10-16 19:38:11] production.INFO: Interakt Event Track Error:   
+[2026-10-16 19:38:11] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 19:38:11] production.INFO: interakt_message error :   
+[2026-10-16 19:43:39] production.INFO: Interakt User Track Request: {"phoneNumber":"7200661152","countryCode":"+91","traits":{"name":"BElangovan Bigshow"},"tags":["Self Get Offer"]}  
+[2026-10-16 19:43:39] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 98dcdd6b-ea4c-491c-8aa1-1c80465f34b9 updated successfully"}  
+[2026-10-16 19:43:39] production.INFO: Interakt User Track Error:   
+[2026-10-16 19:43:39] production.INFO: Interakt Event Track Request: {"phoneNumber":"7200661152","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 19:43:40] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"19fda1cb-b604-46fc-81c6-ad28bef92394"}  
+[2026-10-16 19:43:40] production.INFO: Interakt Event Track Error:   
+[2026-10-16 19:43:40] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 19:43:40] production.INFO: interakt_message error :   
+[2026-10-16 19:45:00] production.INFO: Interakt User Track Request: {"phoneNumber":"9448501318","countryCode":"+91","traits":{"name":"Ameen Ameen"},"tags":["Self Get Offer"]}  
+[2026-10-16 19:45:01] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 3450b641-6357-4fca-a388-9096d7a0474a updated successfully"}  
+[2026-10-16 19:45:01] production.INFO: Interakt User Track Error:   
+[2026-10-16 19:45:01] production.INFO: Interakt Event Track Request: {"phoneNumber":"9448501318","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 19:45:01] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"a5161a32-e47f-4434-906c-c5202f61d89f"}  
+[2026-10-16 19:45:01] production.INFO: Interakt Event Track Error:   
+[2026-10-16 19:45:01] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 19:45:01] production.INFO: interakt_message error :   
+[2026-10-16 19:55:55] production.INFO: Interakt User Track Request: {"phoneNumber":"8008867510","countryCode":"+91","traits":{"name":"ELUKAPALLY SRINIVAS"},"tags":["Self Get Offer"]}  
+[2026-10-16 19:55:55] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id cdaafcdb-97ea-4439-939e-20c90adb7766 updated successfully"}  
+[2026-10-16 19:55:55] production.INFO: Interakt User Track Error:   
+[2026-10-16 19:55:55] production.INFO: Interakt Event Track Request: {"phoneNumber":"8008867510","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":460829}}  
+[2026-10-16 19:55:56] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"bc785b60-d4b8-4f0d-8c1a-7a8c0ae55347"}  
+[2026-10-16 19:55:56] production.INFO: Interakt Event Track Error:   
+[2026-10-16 19:55:56] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 19:55:56] production.INFO: interakt_message error :   
+[2026-10-16 20:02:40] production.INFO: Interakt User Track Request: {"phoneNumber":"9633588475","countryCode":"+91","traits":{"name":"Manoj Kumar"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:02:40] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id fd13cd06-ac09-45b9-8428-4d403e48f6ac updated successfully"}  
+[2026-10-16 20:02:40] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:02:40] production.INFO: Interakt Event Track Request: {"phoneNumber":"9633588475","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 20:02:40] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"de06beaf-fbf4-4caa-aa36-c8cca4638291"}  
+[2026-10-16 20:02:40] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:02:41] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:02:41] production.INFO: interakt_message error :   
+[2026-10-16 20:03:18] production.INFO: Interakt Event Track Request: {"phoneNumber":"9633588475","countryCode":"+91","event":"Self Payment Failed"}  
+[2026-10-16 20:03:18] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"5dfffa68-5fda-40e2-b0c6-4f0f3ccfe445"}  
+[2026-10-16 20:03:18] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:17:06] production.INFO: Interakt User Track Request: {"phoneNumber":"9967458956","countryCode":"+91","traits":{"name":"Sanjay Gavali"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:17:06] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 84c761b7-f598-43e6-8945-8244a803379a updated successfully"}  
+[2026-10-16 20:17:06] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:17:06] production.INFO: Interakt Event Track Request: {"phoneNumber":"9967458956","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 20:17:06] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"7236958e-6a63-4db2-8cfa-9cf419971d0b"}  
+[2026-10-16 20:17:06] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:17:06] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:17:06] production.INFO: interakt_message error :   
+[2026-10-16 20:26:48] production.INFO: Interakt User Track Request: {"phoneNumber":"9809484891","countryCode":"+91","traits":{"name":"Shibu Prsreesrees7"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:26:49] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id f52dc305-b80f-4c78-a32e-a07fb22f65ad updated successfully"}  
+[2026-10-16 20:26:49] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:26:49] production.INFO: Interakt Event Track Request: {"phoneNumber":"9809484891","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 20:26:49] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"7891be79-3fb5-4fe8-b8c8-77f9c72f1492"}  
+[2026-10-16 20:26:49] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:26:49] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:26:49] production.INFO: interakt_message error :   
+[2026-10-16 20:28:28] production.INFO: Interakt User Track Request: {"phoneNumber":"9809484891","countryCode":"+91","traits":{"name":"Shibu Prsreesrees7"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:28:28] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id f52dc305-b80f-4c78-a32e-a07fb22f65ad updated successfully"}  
+[2026-10-16 20:28:28] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:28:28] production.INFO: Interakt Event Track Request: {"phoneNumber":"9809484891","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 20:28:28] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"b87b9163-39c1-4d12-a768-6cb876ed7554"}  
+[2026-10-16 20:28:28] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:28:28] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:28:28] production.INFO: interakt_message error :   
+[2026-10-16 20:28:52] production.INFO: Interakt User Track Request: {"phoneNumber":"8018453930","countryCode":"+91","traits":{"name":"Budhu Oram"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:28:52] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id f08d5b5b-23b0-442d-9f16-e79cdfa9571c updated successfully"}  
+[2026-10-16 20:28:52] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:28:52] production.INFO: Interakt Event Track Request: {"phoneNumber":"8018453930","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":411454}}  
+[2026-10-16 20:28:52] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"0d0ebc34-441c-460e-a32c-aaef34018341"}  
+[2026-10-16 20:28:52] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:28:52] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:28:52] production.INFO: interakt_message error :   
+[2026-10-16 20:33:17] production.INFO: Interakt User Track Request: {"phoneNumber":"8734015695","countryCode":"+91","traits":{"name":"Rakeshsingh Kushwah"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:33:17] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id b2cd0ee7-5bf2-455d-82dc-09ed6dba4e0e updated successfully"}  
+[2026-10-16 20:33:17] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:33:17] production.INFO: Interakt Event Track Request: {"phoneNumber":"8734015695","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 20:33:18] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"71ab2b8b-3066-4c67-bdb5-31959da147f5"}  
+[2026-10-16 20:33:18] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:33:18] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:33:18] production.INFO: interakt_message error :   
+[2026-10-16 20:33:59] production.INFO: Interakt User Track Request: {"phoneNumber":"7208405462","countryCode":"+91","traits":{"name":"Jagruti Kadam"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:34:00] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 453776c4-b4d3-4f6c-8ea3-9250dbcc8df7 updated successfully"}  
+[2026-10-16 20:34:00] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:34:00] production.INFO: Interakt Event Track Request: {"phoneNumber":"7208405462","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 20:34:00] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"6cf3a7e9-6ed5-411b-96b4-9482a43c2b6a"}  
+[2026-10-16 20:34:00] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:34:00] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:34:00] production.INFO: interakt_message error :   
+[2026-10-16 20:35:29] production.INFO: Interakt User Track Request: {"phoneNumber":"9063703501","countryCode":"+91","traits":{"name":"Sreeja Nulu"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:35:29] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 7ffa4b7b-fbd2-413a-a9d3-d0a170295e77 updated successfully"}  
+[2026-10-16 20:35:29] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:35:29] production.INFO: Interakt Event Track Request: {"phoneNumber":"9063703501","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 20:35:29] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"7bee5daa-647e-4a88-9550-e8326846fea2"}  
+[2026-10-16 20:35:29] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:35:30] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:35:30] production.INFO: interakt_message error :   
+[2026-10-16 20:45:57] production.INFO: Interakt User Track Request: {"phoneNumber":"9556855336","countryCode":"+91","traits":{"name":"Bapi Sethi"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:45:57] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 5b23d057-6be1-40e8-8340-587f08086381 updated successfully"}  
+[2026-10-16 20:45:57] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:45:57] production.INFO: Interakt Event Track Request: {"phoneNumber":"9556855336","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 20:45:57] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"c0d39acd-c01a-4362-a7e9-4357f14c5d50"}  
+[2026-10-16 20:45:57] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:45:57] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:45:57] production.INFO: interakt_message error :   
+[2026-10-16 20:46:26] production.INFO: Interakt User Track Request: {"phoneNumber":"8089183166","countryCode":"+91","traits":{"name":"Sibin Issac"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:46:26] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id a881efa0-77f6-4746-a4bd-c73e0e3d8b41 updated successfully"}  
+[2026-10-16 20:46:26] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:46:26] production.INFO: Interakt Event Track Request: {"phoneNumber":"8089183166","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 20:46:26] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"39e728d0-fe72-486d-8260-0dbb91de7ec5"}  
+[2026-10-16 20:46:26] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:46:26] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:46:26] production.INFO: interakt_message error :   
+[2026-10-16 20:47:48] production.INFO: response{"messageId":"<202610161517.54580828075@smtp-relay.mailin.fr>"}
+  
+[2026-10-16 20:47:48] production.INFO: err  
+[2026-10-16 20:47:48] production.INFO: Order API Request: {"remote_data":{"company_code":"QIKBRW5678","company_local_ip":"190.92.174.183","product_code":"SELFAPPLY","customer_name":"Sibin Issac","customer_email":"sibinsibi8547@icloud.com","customer_mobile":"8089183166","userid":3636,"card_number":"9835573060112846","rec_date":"2026-10-16 20:47:48","inv_prefix":"SA_","inv_number":"219","inv_date":"2026-10-16","inv_price":299.0,"inv_cgst":0,"inv_sgst":0,"inv_igst":53.0,"inv_grandtotal":352.0}} 
+[2026-10-16 20:47:48] production.INFO: Order API Response: {"response":{"type":"SUCCESS","http":200,"data":{"type":"SUCCESS","message":"Partner turnover inserted successfully."}}} 
+[2026-10-16 20:47:48] production.INFO: paymentSuccess data - []  
+[2026-10-16 20:47:48] production.INFO: paymentSuccess - loanType: 1, applyId: 3629, orderId: order_Tocrt6sgwbfJ5S, responsecode: 100  
+[2026-10-16 20:47:49] production.INFO: Facebook Conversion API Response {"response":"{\"events_received\":1,\"messages\":[],\"fbtrace_id\":\"Ag2hkYR20wr9-32k01_JRa0\"}","decoded_response":{"events_received":1,"messages":[],"fbtrace_id":"Ag2hkYR20wr9-32k01_JRa0"},"curl_error":"","curl_errno":0,"http_code":200} 
+[2026-10-16 20:47:49] production.INFO: Interakt User Track Request: {"phoneNumber":"8089183166","countryCode":"+91","traits":{"name":"Sibin Issac"},"tags":["Self Payment Successful"]}  
+[2026-10-16 20:47:49] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id a881efa0-77f6-4746-a4bd-c73e0e3d8b41 updated successfully"}  
+[2026-10-16 20:47:49] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:47:49] production.INFO: Interakt Event Track Request: {"phoneNumber":"8089183166","countryCode":"+91","event":"Self Payment Successful","traits":{"userid":"8089183166","userpass":"3q6u08"}}  
+[2026-10-16 20:47:50] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"8e2fe376-6717-41ec-b605-0556360700e8"}  
+[2026-10-16 20:47:50] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:48:13] production.INFO: array (
+  'mobile' => '8089183166',
+  'password' => '3q6u08',
+  'isDelete' => 0,
+)  
+[2026-10-16 20:50:09] production.INFO: Interakt User Track Request: {"phoneNumber":"7200661152","countryCode":"+91","traits":{"name":"BElangovan Bigshow"},"tags":["Self Get Offer"]}  
+[2026-10-16 20:50:09] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 98dcdd6b-ea4c-491c-8aa1-1c80465f34b9 updated successfully"}  
+[2026-10-16 20:50:09] production.INFO: Interakt User Track Error:   
+[2026-10-16 20:50:09] production.INFO: Interakt Event Track Request: {"phoneNumber":"7200661152","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 20:50:09] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"6f9b5145-f4b2-4557-9001-daa7c17f207e"}  
+[2026-10-16 20:50:09] production.INFO: Interakt Event Track Error:   
+[2026-10-16 20:50:09] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 20:50:09] production.INFO: interakt_message error :   
+[2026-10-16 21:26:16] production.INFO: Interakt User Track Request: {"phoneNumber":"7873104150","countryCode":"+91","traits":{"name":"Nagesh Dubey"},"tags":["Self Get Offer"]}  
+[2026-10-16 21:26:16] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id b44e4742-aee6-4eb9-917f-eacaae4e1588 updated successfully"}  
+[2026-10-16 21:26:16] production.INFO: Interakt User Track Error:   
+[2026-10-16 21:26:16] production.INFO: Interakt Event Track Request: {"phoneNumber":"7873104150","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 21:26:17] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"d09b0ed6-3e6f-4b08-9215-f890eabae835"}  
+[2026-10-16 21:26:17] production.INFO: Interakt Event Track Error:   
+[2026-10-16 21:26:17] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 21:26:17] production.INFO: interakt_message error :   
+[2026-10-16 21:42:27] production.INFO: Interakt User Track Request: {"phoneNumber":"9567399511","countryCode":"+91","traits":{"name":"Jefzil M"},"tags":["Self Get Offer"]}  
+[2026-10-16 21:42:27] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 21121cef-77f3-424a-a0ca-90ebfb872f9d updated successfully"}  
+[2026-10-16 21:42:27] production.INFO: Interakt User Track Error:   
+[2026-10-16 21:42:27] production.INFO: Interakt Event Track Request: {"phoneNumber":"9567399511","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 21:42:27] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"81b666f6-f6e9-497e-a99c-0199c2e50766"}  
+[2026-10-16 21:42:27] production.INFO: Interakt Event Track Error:   
+[2026-10-16 21:42:27] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 21:42:27] production.INFO: interakt_message error :   
+[2026-10-16 21:50:55] production.INFO: Interakt User Track Request: {"phoneNumber":"8248457040","countryCode":"+91","traits":{"name":"Anusiya Parveen"},"tags":["Self Get Offer"]}  
+[2026-10-16 21:50:55] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 42018141-3f64-4bcb-a687-d6008501ba62 updated successfully"}  
+[2026-10-16 21:50:55] production.INFO: Interakt User Track Error:   
+[2026-10-16 21:50:55] production.INFO: Interakt Event Track Request: {"phoneNumber":"8248457040","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":195000}}  
+[2026-10-16 21:50:55] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"e492236b-e366-4376-a2e1-7c428e02b8e4"}  
+[2026-10-16 21:50:55] production.INFO: Interakt Event Track Error:   
+[2026-10-16 21:50:55] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 21:50:55] production.INFO: interakt_message error :   
+[2026-10-16 21:58:52] production.INFO: Interakt User Track Request: {"phoneNumber":"9447826183","countryCode":"+91","traits":{"name":"Edwin Jose"},"tags":["Self Get Offer"]}  
+[2026-10-16 21:58:52] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id 75a3fdc3-6819-4374-8313-c1882e6dfcb1 updated successfully"}  
+[2026-10-16 21:58:52] production.INFO: Interakt User Track Error:   
+[2026-10-16 21:58:52] production.INFO: Interakt Event Track Request: {"phoneNumber":"9447826183","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":678900}}  
+[2026-10-16 21:58:52] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"3d3b47cb-038b-4a78-809c-5563509a60ce"}  
+[2026-10-16 21:58:52] production.INFO: Interakt Event Track Error:   
+[2026-10-16 21:58:52] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 21:58:52] production.INFO: interakt_message error :   
+[2026-10-16 22:18:13] production.INFO: Interakt User Track Request: {"phoneNumber":"8680987941","countryCode":"+91","traits":{"name":"Arulraj Kugan"},"tags":["Self Get Offer"]}  
+[2026-10-16 22:18:14] production.INFO: Interakt User Track Response: {"result":true,"message":"Customer with id dc896630-6692-4aed-934c-264a6da24d0d updated successfully"}  
+[2026-10-16 22:18:14] production.INFO: Interakt User Track Error:   
+[2026-10-16 22:18:14] production.INFO: Interakt Event Track Request: {"phoneNumber":"8680987941","countryCode":"+91","event":"Self Get Offer","traits":{"SelfEligibleAmount":288065}}  
+[2026-10-16 22:18:14] production.INFO: Interakt Event Track Response: {"result":true,"message":"Event created successfully","id":"548de333-b0dd-4474-83eb-9e01a2f85fb9"}  
+[2026-10-16 22:18:14] production.INFO: Interakt Event Track Error:   
+[2026-10-16 22:18:14] production.INFO: interakt_message response : {"result": false, "message": "Invalid token provided"}  
+[2026-10-16 22:18:14] production.INFO: interakt_message error :   
+[2026-10-16 23:35:35] production.INFO: self apply send otp function error - Undefined array key "loan_type"  
+[2026-10-16 23:54:54] production.INFO: self apply send otp function error - Undefined array key "loan_type"  
