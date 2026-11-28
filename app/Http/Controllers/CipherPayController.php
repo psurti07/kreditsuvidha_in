@@ -134,9 +134,9 @@ dwIDAQAB
         $segments = explode('/', trim($path, '/'));
         $secondLastSegment = $segments[count($segments) - 2];
 
-        $actualReturnUrl = $secondLastSegment === 'self-apply' ? 'https://kreditsuvidha.com/self-apply/premium-offer-response' : 'https://kreditsuvidha.com/loan-agent/ultra-saver-offer-response';
+        $actualReturnUrl = $secondLastSegment === 'self-apply' ? 'https://kreditsuvidha.in/self-apply/premium-offer-response' : 'https://kreditsuvidha.in/loan-agent/ultra-saver-offer-response';
 
-        $redirectUrl = $paymentMessage === 'Transaction Successfull' ? $actualReturnUrl : 'https://kreditsuvidha.com/cipher-payment-failed/';
+        $redirectUrl = $paymentMessage === 'Transaction Successfull' ? $actualReturnUrl : 'https://kreditsuvidha.in/cipher-payment-failed/';
         Log::info($redirectUrl);
         return response()->json(array('type'=>'SUCCESS', 'message' => $paymentMessage, 'redirectUrl' => $redirectUrl, 'data' => $response));
     }

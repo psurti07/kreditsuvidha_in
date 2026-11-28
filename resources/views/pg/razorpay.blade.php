@@ -31,7 +31,7 @@
       "currency": "INR",
       "name": "KreditSuvidha",
       "description": "Payment",
-      "image": "https://kreditsuvidha.com/public/front/images/logo/apple-touch-icon-60x60.png",
+      "image": "https://kreditsuvidha.in/public/front/images/logo/apple-touch-icon-60x60.png",
       "order_id": "{{ $order_id }}",
 
       "handler": function(response) {

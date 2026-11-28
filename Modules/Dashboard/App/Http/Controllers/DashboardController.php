@@ -179,7 +179,7 @@ class DashboardController extends Controller
                 }
             }
             $orderId = "ZPLAT" . number_format(microtime(true) * 1000, 0, '.', '');
-            // $returnUrl = "https://kreditsuvidha.com/api/customer/plan-upgrade";
+            // $returnUrl = "https://kreditsuvidha.in/api/customer/plan-upgrade";
             $returnUrl = route('api.customer.upgradePlan');
             
             /*zaakpay code starts*/

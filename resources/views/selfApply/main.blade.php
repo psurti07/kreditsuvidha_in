@@ -184,7 +184,7 @@
                                             class="flaticon-right-arrow  ico-20 ms-1"></span></span></button>
                             </div>
                             <div class="col-md-12"><span class="text-danger" id="usererrormsg"></span></div>
-                            <p class="s-12 mb-0">Kreditsuvidha is not a lender. Offers, rates and approval are decided by
+                            <p class="s-12 mb-0 mt-3">Kreditsuvidha is not a lender. Offers, rates and approval are decided by
                                 partner NBFCs.</p>
 
                         </form>
@@ -261,7 +261,7 @@
     </section>
     <!-- Trust Badges Section ends -->
 
-    <section id="features-3" class="py-80 features-section division bg--blue-100">
+    <section id="features-3" class="py-60 features-section division bg--blue-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -376,7 +376,7 @@
         </div>
     </section>
 
-    <section id="features-2" class="py-80 features-section division bg--blue-500">
+    <section id="features-2" class="py-60 features-section division bg--blue-500">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -444,7 +444,7 @@
 
 
 
-    <section id="features-2" class="py-80 features-section division bg--blue-100">
+    <section id="features-2" class="py-60 features-section division bg--blue-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -569,7 +569,7 @@
         </div>
     </section>
 
-    <section class="py-80 features-section division bg--green-300">
+    <section class="py-60 features-section division bg--green-300">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -661,7 +661,7 @@
         </div>
     </section>
 
-    <section class="py-80 features-section-02 division bg--green-300">
+    <section class="py-60 features-section-02 division bg--green-300">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -727,7 +727,7 @@
                 charge you to check offers. Final APR, fees and tenure are confirmed by the partner lender.</p>
         </div>
     </section>
-    <section class="py-80 features-section-02 division bg--blue-100">
+    <section class="py-60 features-section-02 division bg--blue-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -806,7 +806,7 @@
         </div>
     </section>
 
-    <section id="faqs-3" class="py-80 faqs-section bg--green-300">
+    <section id="faqs-3" class="py-60 faqs-section bg--green-300">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -900,7 +900,7 @@
     </section>
 
 
-    <section id="newsletter-1" class="newsletter-section py-80">
+    <section id="newsletter-1" class="newsletter-section py-60 bg--green-300">
         <div class="newsletter-overlay">
             <div class="container">
                 <div class="newsletter-wrap bg--blue-500 r-32">
@@ -934,7 +934,7 @@
                         <div class="contact-form-notice">
                             <p class="s-14">
                                 <strong>Important Note : </strong> We ask our customers to make payments ONLY on our website
-                                kreditsuvidha.com and NOT through any other source, directly or indirectly.
+                                kreditsuvidha.in and NOT through any other source, directly or indirectly.
                             </p>
                             <p class="s-14">
                                 <strong>Disclaimer : </strong> kreditsuvidha Private Limited is not a lender or financial
@@ -1044,63 +1044,7 @@
             </div>
         </div>
     </div>
-    <!-- <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-            aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content p-30 border-radius-10">
-                    <form action="{{ route('self.apply.verify.otp') }}" method="post"
-                        class="request-form save-form-2 needs-validation" novalidate>
-                        <div class="modal-body">
-                            <div class="row">
-                                <p class="s-24">OTP Verification</p>
-                                <p class="s-16">Enter the 4 digit OTP received on your mobile <br />
-                                    <span class="text-success w-600">+91 <span class="text-success w-600"
-                                            id="mobileNumber"></span>
-                                        <a href="javascript:;" class="edit-phoneNumber" title="Edit Phone number">
-                                            <svg width="40px" height="18px" viewBox="0 0 24.00 24.00" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg" stroke="#949494">
-                                                <g id="SVGRepo_bgCarrier" stroke-width="0" />
-                                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"
-                                                    stroke="#CCCCCC" stroke-width="0.43200000000000005" />
-                                                <g id="SVGRepo_iconCarrier">
-                                                    <path
-                                                        d="M15.4998 5.50067L18.3282 8.3291M13 21H21M3 21.0004L3.04745 20.6683C3.21536 19.4929 3.29932 18.9052 3.49029 18.3565C3.65975 17.8697 3.89124 17.4067 4.17906 16.979C4.50341 16.497 4.92319 16.0772 5.76274 15.2377L17.4107 3.58969C18.1918 2.80865 19.4581 2.80864 20.2392 3.58969C21.0202 4.37074 21.0202 5.63707 20.2392 6.41812L8.37744 18.2798C7.61579 19.0415 7.23497 19.4223 6.8012 19.7252C6.41618 19.994 6.00093 20.2167 5.56398 20.3887C5.07171 20.5824 4.54375 20.6889 3.48793 20.902L3 21.0004Z"
-                                                        stroke="#949494" stroke-width="2" stroke-linecap="round"
-                                                        stroke-linejoin="round" />
-                                                </g>
-                                            </svg>
-                                        </a>
-                                    </span>
-                                </p>
-                                <div class="otp-form">
-                                    <div class="otp-container">
-                                        <input type="text" class="otp-input" pattern="\d" maxlength="1">
-                                        <input type="text" class="otp-input" pattern="\d" maxlength="1" disabled>
-                                        <input type="text" class="otp-input" pattern="\d" maxlength="1" disabled>
-                                        <input type="text" class="otp-input" pattern="\d" maxlength="1" disabled>
-                                    </div>
-                                </div>
-                                <span class="mt-2 s-12 text-success" id="msg">
-                                    <input type="hidden" id="verificationCode" name="otp" readonly>
-                                    <input class="form-check-input" value="1" type="hidden" id="flexCheckDefault1" checked
-                                        name="allow_sms" />
-                                    <input class="form-check-input" value="1" type="hidden" id="flexCheckDefault" checked
-                                        name="accept_tnc" />
-                                    <span class="text-danger f-w-400" id="invalidOtp" style="font-size:14px"></span>
-                                    @component('components.ajax-error', ['field' => 'otp'])
-    @endcomponent
-                            </div>
-                            <div class="row color--black resend-otp-div">
-                                <p class="s-12">Didn’t receive the code? <a href="javascript:;" id="resendOtp"
-                                        class="text-success">Resend OTP</a>&nbsp;<span id="timer"
-                                        class="text-success">(00:15)</span></p>
-                            </div>
-                        </div>
-                        <button type="submit" id="otpBtn" class="btn btn--theme hover--tra-black submit mt-3">Verify OTP</button>
-                    </form>
-                </div>
-            </div>
-        </div> -->
+   
 @endsection
 @push('scripts')
     <script>

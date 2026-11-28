@@ -1,4 +1,4 @@
-@extends('layouts.selfapply')
+@extends('layouts.selfapply-dark')
 @push('css')
 <link rel="stylesheet" href="{{ asset('front/css/radiocards.css') }}">
 <link rel="stylesheet" href="{{ asset('front/css/custom.css') }}">
@@ -54,20 +54,20 @@
                                     <span>Verify OTP</span>
                                 </div>
 
-                                <div class="progress-step active">
+                                <div class="progress-step completed">
                                     <span>Personal</span>
                                 </div>
 
-                                <div class="progress-step">
+                                <div class="progress-step completed">
                                     <span>Profile</span>
                                 </div>
 
-                                <div class="progress-step">
+                                <div class="progress-step completed">
                                     <span>Offers</span>
                                 </div>
 
-                                <div class="progress-step">
-                                    <span>Hire agent</span>
+                                <div class="progress-step active">
+                                    <span>Self Apply</span>
                                 </div>
 
                                 <div class="progress-step">

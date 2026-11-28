@@ -1,4 +1,4 @@
-@extends('layouts.selfapply')
+@extends('layouts.selfapply-dark')
 @push('css')
 <link href="{{ asset('front/css/custom.css') }}" rel="stylesheet" type="text/css" />
 <style>
@@ -46,20 +46,20 @@
                                         <span>Verify OTP</span>
                                     </div>
 
-                                    <div class="progress-step active">
+                                    <div class="progress-step completed">
                                         <span>Personal</span>
                                     </div>
 
-                                    <div class="progress-step">
+                                    <div class="progress-step completed">
                                         <span>Profile</span>
                                     </div>
 
-                                    <div class="progress-step">
+                                    <div class="progress-step active">
                                         <span>Offers</span>
                                     </div>
 
                                     <div class="progress-step">
-                                        <span>Hire agent</span>
+                                        <span>Self Apply</span>
                                     </div>
 
                                     <div class="progress-step">
@@ -96,7 +96,7 @@
                                             <div class="fbox-ico">
                                                 <div class="shape-ico">
                                                     <img class="p-0"
-                                                        src="https://manage.kreditsuvidha.com/public/upload/banks/{{ $offersData[0]['bank_image'] }}"
+                                                        src="https://manage.kreditsuvidha.in/public/upload/banks/{{ $offersData[0]['bank_image'] }}"
                                                         alt="bank" width="160">
                                                 </div>
                                             </div>
@@ -147,7 +147,7 @@
                                             <div class="fbox-ico">
                                                 <div class="shape-ico">
                                                     <img class="p-0"
-                                                        src="https://manage.kreditsuvidha.com/public/upload/banks/{{ $item['bank_image'] }}"
+                                                        src="https://manage.kreditsuvidha.in/public/upload/banks/{{ $item['bank_image'] }}"
                                                         alt="bank" width="160">
                                                 </div>
                                             </div> <!-- End Icon -->

@@ -63,7 +63,7 @@
     </div>
 </section>
 
-<section id="join-our-team" class="py-80 careers-section">
+<section id="join-our-team" class="py-40 careers-section">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-lg-9">
@@ -74,7 +74,7 @@
                     @else
                     <h2 class="">Sorry!!</h2>
                     <p class="color--grey">We currently do not have any vacancies.</p>
-                    <p class="color--grey">Kindly send your updated CV to: info@kreditsuvidha.com. We will contact you if your profile matches any of our future requirements</p>
+                    <p class="color--grey">Kindly send your updated CV to: info@kreditsuvidha.in. We will contact you if your profile matches any of our future requirements</p>
                     @endif
                 </div>
             </div>
@@ -98,7 +98,7 @@
 <hr class="divider">
 
 <!-- benefits and perks -->
-<section id="features-11" class="py-80 features-section division">
+<section id="features-11" class="py-40 features-section division">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-lg-9">

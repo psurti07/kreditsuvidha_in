@@ -1,6 +1,6 @@
 <!-- Testimonials carousel start  -->
 <div class="owl-carousel owl-theme reviews-1-wrapper">
-    <div class="review-1 bg--white-100 shadow-md r-24 p-0">
+    <div class="review-1 bg--white-100 r-24 p-0">
         <div class="p-3">
             <div class="review-avatar float-none mb-2">
                 <img src="{{ asset('front/images/review/review-1.png') }}" alt="review-avatar" width="auto"
@@ -25,7 +25,7 @@
         </div>
     </div>
 
-    <div class="review-1 bg--white-100 shadow-md r-24 p-0">
+    <div class="review-1 bg--white-100 r-24 p-0">
         <div class="p-3">
             <div class="review-avatar float-none mb-2">
                 <img src="{{ asset('front/images/review/reviews-01.jpg') }}" alt="review-avatar" width="auto"
@@ -51,7 +51,7 @@
             </div>
         </div>
     </div>
-    <div class="review-1 bg--white-100 shadow-md r-24 p-0">
+    <div class="review-1 bg--white-100 r-24 p-0">
         <div class="p-3">
             <div class="review-avatar float-none mb-2">
                 <img src="{{ asset('front/images/review/reviews-02.jpg') }}" alt="review-avatar" width="auto"
@@ -77,7 +77,7 @@
     </div>
 
 
-    <div class="review-1 bg--white-100 shadow-md r-24 p-0">
+    <div class="review-1 bg--white-100 r-24 p-0">
         <div class="p-3">
             <div class="review-avatar float-none mb-2">
                 <img src="{{ asset('front/images/review/reviews-03.jpg') }}" alt="review-avatar" width="auto"
@@ -102,7 +102,7 @@
         </div>
     </div>
 
-    <div class="review-1 bg--white-100 shadow-md r-24 p-0">
+    <div class="review-1 bg--white-100 r-24 p-0">
         <div class="p-3">
             <div class="review-avatar float-none mb-2">
                 <img src="{{ asset('front/images/review/reviews-04.jpg') }}" alt="review-avatar" width="auto"
@@ -127,7 +127,7 @@
         </div>
     </div>
 
-    <div class="review-1 bg--white-100 shadow-md r-24 p-0">
+    <div class="review-1 bg--white-100 r-24 p-0">
         <div class="p-3">
             <div class="review-avatar float-none mb-2">
                 <img src="{{ asset('front/images/review/reviews-05.jpg') }}" alt="review-avatar" width="auto"

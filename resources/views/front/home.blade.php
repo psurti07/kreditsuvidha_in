@@ -64,7 +64,7 @@
                                 <span class="custom-btn-icon">
                                     <i class="fas fa-arrow-up"></i>
                                 </span></a>
-                            <a href="#" class="btn btn-white btn-sm rounded-pill">See how it works</a>
+                            <a href="#features-3" class="btn btn-white btn-sm rounded-pill">how it works</a>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
 
 
 
-    <section class="py-80 ct-02 content-section division" id="about">
+    <section class="py-60 ct-02 content-section division" id="about">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-7 col-md-6 col-12">
@@ -163,7 +163,7 @@
     </section>
 
 
-    <section id="features-2" class="py-80 features-section division bg--blue-500">
+    <section id="features-2" class="py-60 features-section division bg--blue-500">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -228,7 +228,7 @@
     </section>
 
     <!-- Products Intro section starts -->
-    <section id="products" class="py-80 features-section division bg--blue-100">
+    <section id="products" class="py-60 features-section division bg--blue-100">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-6 align-items-start">
@@ -347,7 +347,7 @@
 
 
     <!-- Quick and swift steps section starts -->
-    <section id="features-3" class="py-80 features-section division bg--blue-200">
+    <section id="features-3" class="py-60 features-section division bg--blue-200">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -462,7 +462,7 @@
     </section>
     <!-- Quick and swift steps section end -->
     <!-- eligibility calculator starts -->
-    <section id="features-21" class="py-80 features-section division bg--blue-100">
+    <section id="features-21" class="py-60 features-section division bg--blue-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -761,7 +761,7 @@
 
 
     <!-- Testimonioals section starts -->
-    <section id="reviews-1" class="py-80 reviews-section bg--blue-200">
+    <section id="reviews-1" class="py-60 reviews-section bg--blue-200">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -789,7 +789,7 @@
     <!-- Testimonioals section ends -->
 
     <!-- Contact Start -->
-    <section id="contact" class="py-80">
+    <section id="contact" class="py-60">
         <div class="p-60 bg--blue-500 r-32 contact-form-wrap">
 
             <div class="row">
@@ -924,7 +924,7 @@
                                                         <i class="fas fa-arrow-up"></i>
                                                     </span>
                                                 </button> -->
-                                        <button type="submit" class="custom-btn me-2 submit w-100" id="submit-btn">
+                                        <button type="submit" class="custom-btn me-2 submit w-100 border-0" id="submit-btn">
                                             <span class="custom-btn-text text-black">Submit Request</span>
 
                                             <div class="custom-icon-wrap">

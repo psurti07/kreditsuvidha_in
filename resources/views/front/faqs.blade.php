@@ -69,7 +69,7 @@
     </div>
 </section>
 
-<section id="faqs-3" class="py-80 faqs-section">
+<section id="faqs-3" class="py-40 faqs-section">
     <div class="container">
         <div class="faqs-3-questions">
             <div class="row justify-content-center">

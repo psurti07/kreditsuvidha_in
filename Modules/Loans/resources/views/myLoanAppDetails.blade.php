@@ -111,14 +111,14 @@
                             <div class="d-flex flex-stack">
                                 <div class="text-gray-700 fw-semibold fs-6 me-2">Agent Mobile</div>
                                 <div class="d-flex align-items-senter">
-                                    <span class="text-gray-900 fw-bolder fs-6">+91&nbsp;{{ $agentDetails->mobile ?? '+91-94292-14352' }}</span>
+                                    <span class="text-gray-900 fw-bolder fs-6">+91&nbsp;{{ $agentDetails->mobile ?? '+91-#' }}</span>
                                 </div>
                             </div>
                             <div class="separator separator-dashed my-3"></div>
                             <div class="d-flex flex-stack">
                                 <div class="text-gray-700 fw-semibold fs-6 me-2">Agent Email Id</div>
                                 <div class="d-flex align-items-senter">
-                                    <span class="text-gray-900 fw-bolder fs-6">{{ $agentDetails->emailid ?? 'info@kreditsuvidha.com' }}</span>
+                                    <span class="text-gray-900 fw-bolder fs-6">{{ $agentDetails->emailid ?? 'info@kreditsuvidha.in' }}</span>
                                 </div>
                             </div>
                             <div class="separator separator-dashed my-3"></div>

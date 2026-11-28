@@ -66,7 +66,7 @@
     </div>
 </section>
 
-<section id="privacy-page" class="py-60 division">
+<section id="privacy-page" class="py-40 division">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">

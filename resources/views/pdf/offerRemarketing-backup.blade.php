@@ -88,9 +88,9 @@
                 height: 100%;
                 background-repeat: repeat;
                 background-position: center top;
-                background-image: url(https://kreditsuvidha.com/assets/images/mail-bgm.png);
+                background-image: url(https://kreditsuvidha.in/assets/images/mail-bgm.png);
                 background-color: #f9f9f9;
-                " background="https://kreditsuvidha.com/front/images/bg-01.webp">
+                " background="https://kreditsuvidha.in/front/images/bg-01.webp">
                 <tbody>
                     <tr>
                         <td class="es-m-margin" valign="top" style="padding: 0; margin: 0;">
@@ -130,9 +130,9 @@
                                                                                             class="es-m-txt-c"
                                                                                             style="padding: 0; margin: 0; padding-top: 5px; font-size: 0;">
                                                                                             <a target="_blank"
-                                                                                                href="https://kreditsuvidha.com/"
+                                                                                                href="https://kreditsuvidha.in/"
                                                                                                 style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: underline; color: #000f26; font-size: 14px;">
-                                                                                            <img src="https://kreditsuvidha.com/front/images/logo/logo.png"
+                                                                                            <img src="https://kreditsuvidha.in/front/images/logo/logo.png"
                                                                                                 alt="KreditSuvidha"
                                                                                                 style="display: block; border: 0; outline: 0; text-decoration: none; -ms-interpolation-mode: bicubic;"
                                                                                                 width="190"
@@ -374,7 +374,7 @@
                                                             <td>
                                                                 <div class="card-wrapper" style="position: relative;">
                                                                     <div class="loan-card {{ $loop->index > 0 ? 'blurred' : '' }}">
-                                                                        <img src="https://manage.kreditsuvidha.com/upload/banks/{{$offer->bank_image}}" alt="{{ $offer->bank_name }}" class="logo">
+                                                                        <img src="https://manage.kreditsuvidha.in/upload/banks/{{$offer->bank_image}}" alt="{{ $offer->bank_name }}" class="logo">
                                                                         <div class="info-wrapper">
                                                                             <div class="info-block">
                                                                                 Loan Amount
@@ -545,7 +545,7 @@
                                                                                                 Mobile:
                                                                                                 <a target="_blank"
                                                                                                     style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: none; color: #000f26; font-size: 14px;"
-                                                                                                    href="tel:09724206519">
+                                                                                                    href="tel:0#">
                                                                                                 {{ str_ireplace(' ','-',env('COMPANY_MOBILE')) }}
                                                                                                 </a>
                                                                                                 | Email:

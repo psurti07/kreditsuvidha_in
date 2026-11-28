@@ -1242,7 +1242,7 @@ dwIDAQAB
 
             //Log::info('Offer data - '. $offerId);
             $orderId = number_format(microtime(true) * 1000, 0, '.', '');
-            $returnUrl = 'https://KreditSuvidha.com/api/loan-agent/great-deal-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/great-deal-offer-response';
 
             if (env('LYRA_MODE') == "PROD") {
                 $curlurl = "https://api.in.lyra.com/pg/rest/v1/charge";
@@ -1445,7 +1445,7 @@ dwIDAQAB
             //Log::info('Offer data - '. $offerId);
             $orderId = number_format(microtime(true) * 1000, 0, '.', '');
             $encData = null;
-            $returnUrl = 'https://KreditSuvidha.com/api/loan-agent/elite-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/elite-offer-response';
 
             if (env('SABPAISA_MODE') == "PROD") {
                 $curlurl = "https://securepay.sabpaisa.in/SabPaisa/sabPaisaInit?v=1";
@@ -1725,7 +1725,7 @@ dwIDAQAB
             //Log::info('Offer data - '. $offerId);
             $orderId = number_format(microtime(true) * 1000, 0, '.', '');
             $encData = null;
-            $returnUrl = 'https://KreditSuvidha.com/api/loan-agent/ultra-saver-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/ultra-saver-offer-response';
 
             /* cipherPay PG starts */
             $refId = rand(1000,9999);
@@ -1911,7 +1911,7 @@ dwIDAQAB
             Session::save();
             Cache::put('user_password', $password, $this->lifetime);
             //Log::info('order ID - ' .$orderid);
-            $returnUrl = 'https://KreditSuvidha.com/api/loan-agent/big-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/big-offer-response';
             $curlurl = "https://api.zaakpay.com/api/paymentTransact/V8";
 
             $firstname = ($first_name != "") ? $first_name : $email;
@@ -2117,7 +2117,7 @@ dwIDAQAB
 
             $orderid = "APLive" . number_format(microtime(true) * 1000, 0, '.', '');
             $url = "https://payments.airpay.co.in/pay/index.php";
-            $returnUrl = 'https://KreditSuvidha.com/api/loan-agent/big-benefit-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/big-benefit-offer-response';
 
             $hiddenmod = "";
 

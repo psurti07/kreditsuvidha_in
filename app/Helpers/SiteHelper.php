@@ -110,7 +110,7 @@ if (!function_exists('nbfcsList')) {
             $data['list'] .= '<div class="col company" data-index="' . $loop . '">
                             <a href="javascript:;" class="in_tool it-1 r-10">
                                 <div class="bg--white-100 block-shadow r-10 mb-20">
-                                    <img class="img-fluid" src="https://manage.kreditsuvidha.com/upload/banks/' . $bank->bank_image . '" alt="' . $bank->bank_name . '" width="auto">
+                                    <img class="img-fluid" src="https://manage.kreditsuvidha.in/upload/banks/' . $bank->bank_image . '" alt="' . $bank->bank_name . '" width="auto">
                                 </div>
                                 <h6 class="s-14 w-700">' . $bank->bank_name . '</h6>
                             </a>
@@ -118,7 +118,7 @@ if (!function_exists('nbfcsList')) {
 
             $data['carousel'] .= '<div class="bg--white-100 r-10 mb-0 p-2 border">
                                     <a href="javascript:;">
-                                        <img class="img-fluid" src="https://manage.kreditsuvidha.com/upload/banks/' . $bank->bank_image . '" alt="' . $bank->bank_name . '" width="auto">
+                                        <img class="img-fluid" src="https://manage.kreditsuvidha.in/upload/banks/' . $bank->bank_image . '" alt="' . $bank->bank_name . '" width="auto">
                                     </a>
                                 </div>';
             $loop++;
@@ -134,8 +134,8 @@ if (!function_exists('raiseRequestFaqs')) {
         return '
             <ul class="accordion">
                 <li class="accordion-item mb-0">
-                    <div class="accordion-thumb">
-                        <h6 class="s-16 w-500 mb-0">I paid, but my account has not yet been created. What do I do? </h6>
+                    <div class="accordion-thumb p-2">
+                        <p class="w-500 mb-0">I paid, but my account has not yet been created. What do I do? </p>
                     </div>
                     <div class="accordion-panel">
                         <div class="accordion-panel-item">
@@ -147,8 +147,8 @@ if (!function_exists('raiseRequestFaqs')) {
                     </div>
                 </li>
                 <li class="accordion-item mb-0">
-                    <div class="accordion-thumb">
-                        <h6 class="s-16 w-500 mb-0">Despite the fact that it has been so many days, I still have not received my refund. What do I do? </h6>
+                    <div class="accordion-thumb p-2">
+                        <p class="w-500 mb-0">Despite the fact that it has been so many days, I still have not received my refund. What do I do? </p>
                     </div>
                     <div class="accordion-panel">
                         <div class="accordion-panel-item">
@@ -161,8 +161,8 @@ if (!function_exists('raiseRequestFaqs')) {
                     </div>
                 </li>
                 <li class="accordion-item mb-0">
-                    <div class="accordion-thumb">
-                        <h6 class="s-16 w-500 mb-0">I misunderstood the company service and/or paid by mistake. Can I receive a refund?</h6>
+                    <div class="accordion-thumb p-2">
+                        <p class="w-500 mb-0">I misunderstood the company service and/or paid by mistake. Can I receive a refund?</p>
                     </div>
                     <div class="accordion-panel">
                         <div class="accordion-panel-item">
@@ -175,8 +175,8 @@ if (!function_exists('raiseRequestFaqs')) {
                     </div>
                 </li>
                 <li class="accordion-item mb-0">
-                    <div class="accordion-thumb">
-                        <h6 class="s-16 w-500 mb-0">Despite being shown pre-approved loan offers based on my eligibility, I did not get one.Why? </h6>
+                    <div class="accordion-thumb p-2">
+                        <p class="w-500 mb-0">Despite being shown pre-approved loan offers based on my eligibility, I did not get one.Why? </p>
                     </div>
                     <div class="accordion-panel">
                         <div class="accordion-panel-item">
@@ -189,8 +189,8 @@ if (!function_exists('raiseRequestFaqs')) {
                     </div>
                 </li>
                 <li class="accordion-item mb-0">
-                    <div class="accordion-thumb">
-                        <h6 class="s-16 w-500 mb-0">Who qualifies for a GST return?</h6>
+                    <div class="accordion-thumb p-2">
+                        <p class="w-500 mb-0">Who qualifies for a GST return?</p>
                     </div>
                     <div class="accordion-panel">
                         <div class="accordion-panel-item">
@@ -203,8 +203,8 @@ if (!function_exists('raiseRequestFaqs')) {
                     </div>
                 </li>
                 <li class="accordion-item mb-0">
-                    <div class="accordion-thumb">
-                        <h6 class="s-16 w-500 mb-0">I have changed my mind and no longer wish to use the company services. Can I get a refund?</h6>
+                    <div class="accordion-thumb p-2">
+                        <p class="w-500 mb-0">I have changed my mind and no longer wish to use the company services. Can I get a refund?</p>
                     </div>
                     <div class="accordion-panel">
                         <div class="accordion-panel-item">
@@ -217,8 +217,8 @@ if (!function_exists('raiseRequestFaqs')) {
                     </div>
                 </li>
                 <li class="accordion-item mb-0">
-                    <div class="accordion-thumb">
-                        <h6 class="s-16 w-500 mb-0">I am not happy with the company service. What do I do?</h6>
+                    <div class="accordion-thumb p-2">
+                        <p class="w-500 mb-0">I am not happy with the company service. What do I do?</p>
                     </div>
                     <div class="accordion-panel">
                         <div class="accordion-panel-item">
@@ -231,8 +231,8 @@ if (!function_exists('raiseRequestFaqs')) {
                     </div>
                 </li>
                 <li class="accordion-item mb-0">
-                    <div class="accordion-thumb">
-                        <h6 class="s-16 w-500 mb-0">What happens if I accidentally make multiple payments? Do I qualify for a refund? </h6>
+                    <div class="accordion-thumb p-2">
+                        <p class="w-500 mb-0">What happens if I accidentally make multiple payments? Do I qualify for a refund? </p>
                     </div>
                     <div class="accordion-panel">
                         <div class="accordion-panel-item">
@@ -245,8 +245,8 @@ if (!function_exists('raiseRequestFaqs')) {
                     </div>
                 </li>
                 <li class="accordion-item mb-0">
-                    <div class="accordion-thumb">
-                        <h6 class="s-16 w-500 mb-0">Can I get a refund if I buy subscriptions or memberships from multiple companies in your group?</h6>
+                    <div class="accordion-thumb p-2">
+                        <p class="w-500 mb-0">Can I get a refund if I buy subscriptions or memberships from multiple companies in your group?</p>
                     </div>
                     <div class="accordion-panel">
                         <div class="accordion-panel-item">
@@ -532,7 +532,7 @@ if (!function_exists('sendBrevoHtmlMail')) {
     function sendBrevoHtmlMail($maildata, $subject = '', $message = '', $sendmail = '', $attachmentPath = '')
     {
         $data['sender']['name'] = env('APP_NAME');
-        $data["sender"]["email"] = 'info@kreditsuvidha.com';
+        $data["sender"]["email"] = 'info@kreditsuvidha.in';
 
         $user_res["name"] = $maildata["fullname"];
         $user_res["email"] = $maildata["email"];
@@ -591,7 +591,7 @@ if (!function_exists('sendBrevoHtmlMail2')) {
     function sendBrevoHtmlMail2($maildata, $subject = '', $message = '', $sendmail = '', $attachments = [])
     {
         $data['sender']['name'] = env('APP_NAME');
-        $data["sender"]["email"] = 'info@kreditsuvidha.com';
+        $data["sender"]["email"] = 'info@kreditsuvidha.in';
 
         $user_res["name"] = $maildata["fullname"];
         $user_res["email"] = $maildata["email"];

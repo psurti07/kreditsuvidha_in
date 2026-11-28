@@ -224,7 +224,7 @@
                             </p>
                             
                             <p class="s-14">
-                                <strong>Important Note:</strong> BE AWARE! We ask our customers to make payments ONLY on our website https://KreditSuvidha.com and NOT through any other source, directly or indirectly. Thanks!
+                                <strong>Important Note:</strong> BE AWARE! We ask our customers to make payments ONLY on our website https://kreditsuvidha.in and NOT through any other source, directly or indirectly. Thanks!
                             </p>
                         </div>
                     </div>

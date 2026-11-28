@@ -1263,7 +1263,7 @@ class LoanAgentController extends Controller
     					'zip' => $userData->pincode,
     					'orderid' => $orderId,
     					'odamount' => $orderData->orderamount,
-    					'sourceurl' => 'https://KreditSuvidha.com/loan-agent/paymentSuccess'
+    					'sourceurl' => 'https://kreditsuvidha.in/loan-agent/paymentSuccess'
     				);
     
     				if ($fbleads) {
@@ -1476,7 +1476,7 @@ class LoanAgentController extends Controller
 
             //Log::info('Offer data - '. $offerId);
             $orderId = number_format(microtime(true) * 1000, 0, '.', '');
-            $returnUrl = 'https://KreditSuvidha.com/api/loan-agent/great-deal-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/great-deal-offer-response';
 
            if (env('SABPAISA_MODE') == "PROD") {
                 $curlurl = "https://securepay.sabpaisa.in/SabPaisa/sabPaisaInit?v=1";
@@ -1747,7 +1747,7 @@ class LoanAgentController extends Controller
             $offerId = $record->id;
 
             $orderid = number_format(microtime(true) * 1000, 0, '.', '');
-            $returnUrl = 'https://KreditSuvidha.com/api/loan-agent/elite-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/elite-offer-response';
             $password = trim(random_code(6));
             Session::put('orderid', $orderid);
             Session::save();
@@ -1972,7 +1972,7 @@ class LoanAgentController extends Controller
             //Log::info('Offer data - '. $offerId);
             $orderId = number_format(microtime(true) * 1000, 0, '.', '');
             $encData = null;
-            $returnUrl = 'https://kreditsuvidha.com/api/loan-agent/ultra-saver-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/ultra-saver-offer-response';
 
             /* cipherPay PG starts */
             $refId = rand(1000,9999);
@@ -2156,7 +2156,7 @@ class LoanAgentController extends Controller
             //Log::info('Offer data - '. $offerId);
             $orderId = 'KRBZVGP'.number_format(microtime(true) * 1000, 0, '.', '');
             $encData = null;
-            $returnUrl = 'https://kreditsuvidha.com/api/loan-agent/ultra-saver-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/ultra-saver-offer-response';
 
             /* veegah PG starts */
             
@@ -2702,7 +2702,7 @@ class LoanAgentController extends Controller
 
             $orderid = "APLive" . number_format(microtime(true) * 1000, 0, '.', '');
             $url = "https://payments.airpay.co.in/pay/index.php";
-            $returnUrl = 'https://kreditsuvidha.com/api/loan-agent/big-benefit-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/big-benefit-offer-response';
 
             $hiddenmod = "";
 

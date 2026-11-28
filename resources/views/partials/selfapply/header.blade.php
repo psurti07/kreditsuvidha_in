@@ -13,7 +13,7 @@
                 <!-- HEADER BLACK LOGO -->
                 <div class="desktoplogo">
                     <a href="javascript:;" class="logo-black">
-                        <img src="{{ asset('front/images/logo/logo-w.png') }}" alt="{{ env('APP_NAME') }}"/>
+                        <img src="{{ asset('front/images/logo/logo.png') }}" alt="{{ env('APP_NAME') }}"/>
                     </a>
                 </div>
                 <!-- HEADER WHITE LOGO -->

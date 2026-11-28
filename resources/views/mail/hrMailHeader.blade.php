@@ -459,9 +459,9 @@
                 height: 100%;
                 background-repeat: repeat;
                 background-position: center top;
-                background-image: url(https://kreditsuvidha.com/assets/images/mail-bgm.png);
+                background-image: url(https://kreditsuvidha.in/assets/images/mail-bgm.png);
                 background-color: #f9f9f9;
-                " background="https://kreditsuvidha.com/public/front/images/bg-01.webp">
+                " background="https://kreditsuvidha.in/public/front/images/bg-01.webp">
             <tbody>
                 <tr>
                     <td class="es-m-margin" valign="top" style="padding: 0; margin: 0;">
@@ -501,9 +501,9 @@
                                                                                         class="es-m-txt-c"
                                                                                         style="padding: 0; margin: 0; padding-top: 5px; font-size: 0;">
                                                                                         <a target="_blank"
-                                                                                            href="https://kreditsuvidha.com/"
+                                                                                            href="https://kreditsuvidha.in/"
                                                                                             style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: underline; color: #000f26; font-size: 14px;">
-                                                                                            <img src="https://kreditsuvidha.com/public/front/images/logo/logo.png"
+                                                                                            <img src="https://kreditsuvidha.in/public/front/images/logo/logo.png"
                                                                                                 alt="KreditSuvidha"
                                                                                                 style="display: block; border: 0; outline: 0; text-decoration: none; -ms-interpolation-mode: bicubic;"
                                                                                                 width="150"
@@ -609,25 +609,25 @@
                                                                                                 ">
                                                                                             <a target="_blank"
                                                                                                 style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: none; color: #000f26; font-size: 14px;"
-                                                                                                href="https://kreditsuvidha.com/privacy-policy">
+                                                                                                href="https://kreditsuvidha.in/privacy-policy">
                                                                                                 Privacy Policy
                                                                                             </a>
                                                                                             &nbsp; | &nbsp;
                                                                                             <a target="_blank"
                                                                                                 style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: none; color: #000f26; font-size: 14px;"
-                                                                                                href="https://kreditsuvidha.com/terms-and-conditions">
+                                                                                                href="https://kreditsuvidha.in/terms-and-conditions">
                                                                                                 Terms &amp; Conditions
                                                                                             </a>
                                                                                             &nbsp; | &nbsp;
                                                                                             <a target="_blank"
                                                                                                 style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: none; color: #000f26; font-size: 14px;"
-                                                                                                href="https://kreditsuvidha.com/contact-us">
+                                                                                                href="https://kreditsuvidha.in/contact-us">
                                                                                                 Raise a request
                                                                                             </a>
                                                                                             &nbsp; | &nbsp;
                                                                                             <a target="_blank"
                                                                                                 style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: none; color: #000f26; font-size: 14px;"
-                                                                                                href="https://kreditsuvidha.com/uat">
+                                                                                                href="https://kreditsuvidha.in/uat">
                                                                                                 Visit Website
                                                                                             </a>
                                                                                         </p>
@@ -670,13 +670,13 @@
                                                                                             Mobile:
                                                                                             <a target="_blank"
                                                                                                 style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: none; color: #000f26; font-size: 14px;"
-                                                                                                href="tel:09724206519">
-                                                                                                +91-97242-06519
+                                                                                                href="tel:0#">
+                                                                                                +91-#
                                                                                             </a>
                                                                                             | Email:
-                                                                                            <a href="mailto:info@kreditsuvidha.com"
+                                                                                            <a href="mailto:info@kreditsuvidha.in"
                                                                                                 style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: none; color: #000f26; font-size: 14px;">
-                                                                                                info@kreditsuvidha.com
+                                                                                                info@kreditsuvidha.in
                                                                                             </a>
                                                                                         </p>
                                                                                     </td>

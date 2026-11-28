@@ -368,7 +368,8 @@ class LoanAgentController extends Controller
                 'email' => 'required|email',
                 'pincode' => 'required|digits:6',
                 'city' => 'required',
-                'state' => 'required'
+                'state' => 'required',
+                'loan_type' => 'required'
             ]);
             /* create new array which is pass in create function for create the record */
             $newInputs = [
@@ -383,6 +384,18 @@ class LoanAgentController extends Controller
             ];
             /* perform teh insertion in database */
             $result = UserRegistration::where('id', Cookie::get('userid'))->update($newInputs);
+
+            $newInputstype = [
+                'update_date' => now(),
+                'loan_type' => $request->input('loan_type'),
+            ];
+
+            $userid = Cookie::get('userid');
+
+            if ($userid) {
+                $result1 = LoanApplications::where('userid', $userid)->update($newInputstype);
+            }
+
             /* if return teh true */
             if ($result) {
                 Cookie::queue('process_step', 3, $this->lifetime, '/', null, false, true, false, 'lax');
@@ -1178,7 +1191,7 @@ class LoanAgentController extends Controller
                         'zip' => $userData->pincode,
                         'orderid' => $orderId,
                         'odamount' => $orderData->orderamount,
-                        'sourceurl' => 'https://KreditSuvidha.com/loan-agent/paymentSuccess'
+                        'sourceurl' => 'https://kreditsuvidha.in/loan-agent/paymentSuccess'
                     );
 
                     if ($fbleads) {
@@ -1392,7 +1405,7 @@ class LoanAgentController extends Controller
 
             //Log::info('Offer data - '. $offerId);
             $orderId = number_format(microtime(true) * 1000, 0, '.', '');
-            $returnUrl = 'https://KreditSuvidha.com/api/loan-agent/great-deal-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/great-deal-offer-response';
 
             if (env('SABPAISA_MODE') == "PROD") {
                 $curlurl = "https://securepay.sabpaisa.in/SabPaisa/sabPaisaInit?v=1";
@@ -1859,7 +1872,7 @@ class LoanAgentController extends Controller
             //Log::info('Offer data - '. $offerId);
             $orderId = number_format(microtime(true) * 1000, 0, '.', '');
             $encData = null;
-            $returnUrl = 'https://kreditsuvidha.com/api/loan-agent/ultra-saver-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/ultra-saver-offer-response';
 
             /* cipherPay PG starts */
             $refId = rand(1000, 9999);
@@ -2043,7 +2056,7 @@ class LoanAgentController extends Controller
             //Log::info('Offer data - '. $offerId);
             $orderId = 'KRBZVGP' . number_format(microtime(true) * 1000, 0, '.', '');
             $encData = null;
-            $returnUrl = 'https://kreditsuvidha.com/api/loan-agent/ultra-saver-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/ultra-saver-offer-response';
 
             /* veegah PG starts */
 
@@ -2591,7 +2604,7 @@ class LoanAgentController extends Controller
 
             $orderid = "APLive" . number_format(microtime(true) * 1000, 0, '.', '');
             $url = "https://payments.airpay.co.in/pay/index.php";
-            $returnUrl = 'https://kreditsuvidha.com/api/loan-agent/big-benefit-offer-response';
+            $returnUrl = 'https://kreditsuvidha.in/api/loan-agent/big-benefit-offer-response';
 
             $hiddenmod = "";
 

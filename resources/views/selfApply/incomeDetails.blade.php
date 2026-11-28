@@ -1,4 +1,4 @@
-@extends('layouts.selfapply')
+@extends('layouts.selfapply-dark')
 @push('css')
 {{-- write or link your css file and styles tag here --}}
 <link href="{{ asset('front/css/custom.css') }}" rel="stylesheet" type="text/css" />

@@ -233,7 +233,7 @@
                                             class="flaticon-right-arrow  ico-20 ms-1"></span></span></button>
                             </div>
                             <div class="col-md-12"><span class="text-danger" id="usererrormsg"></span></div>
-                            <p class="s-12 mb-0">Kreditsuvidha is not a lender. Offers, rates and approval are decided by
+                            <p class="s-12 mb-0 mt-3">Kreditsuvidha is not a lender. Offers, rates and approval are decided by
                                 partner NBFCs.</p>
 
                         </form>
@@ -244,7 +244,7 @@
     </section>
 
     <!-- Trust Badges Section starts -->
-    <section id="statistic-1" class=" ct-03 py-0 statistic-section division">
+    <section id="statistic-1" class=" ct-03 py-0 statistic-section division ">
         <div class="container">
             <div class="statistic-5-wrapper r-22 bg-white shadow-sm">
                 <div class="row row-cols-2 row-cols-md-4">
@@ -310,7 +310,7 @@
     </section>
     <!-- Trust Badges Section ends -->
 
-    <section id="features-3" class="py-80 features-section division bg--blue-100">
+    <section id="features-3" class="py-60 features-section division bg--blue-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -425,7 +425,7 @@
         </div>
     </section>
 
-    <section id="features-2" class="py-80 features-section division bg--blue-500">
+    <section id="features-2" class="py-60 features-section division bg--blue-500">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -493,7 +493,7 @@
 
 
 
-    <section id="features-2" class="py-80 features-section division bg--blue-100">
+    <section id="features-2" class="py-60 features-section division bg--blue-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -618,7 +618,7 @@
         </div>
     </section>
 
-    <section class="py-80 features-section division bg--green-300">
+    <section class="py-60 features-section division bg--green-300">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -710,7 +710,7 @@
         </div>
     </section>
 
-    <section class="py-80 features-section-02 division bg--green-300">
+    <section class="py-60 features-section-02 division bg--green-300">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -776,7 +776,7 @@
                 charge you to check offers. Final APR, fees and tenure are confirmed by the partner lender.</p>
         </div>
     </section>
-    <section class="py-80 features-section-02 division bg--blue-100">
+    <section class="py-60 features-section-02 division bg--blue-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -855,7 +855,7 @@
         </div>
     </section>
 
-    <section id="faqs-3" class="py-80 faqs-section bg--green-300">
+    <section id="faqs-3" class="py-60 faqs-section bg--green-300">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-10">
@@ -947,7 +947,7 @@
     </section>
 
 
-    <section id="newsletter-1" class="newsletter-section py-80">
+    <section id="newsletter-1" class="newsletter-section py-60 bg--green-300">
         <div class="newsletter-overlay">
             <div class="container">
                 <div class="newsletter-wrap bg--blue-500 r-32">
@@ -980,7 +980,7 @@
                     <div class="form-holder">
                         <div class="contact-form-notice">
                             <p class="s-14">
-                                <strong>Important Note : </strong> We ask our customers to make payments ONLY on our website kreditsuvidha.com and NOT through any other source, directly or indirectly.
+                                <strong>Important Note : </strong> We ask our customers to make payments ONLY on our website kreditsuvidha.in and NOT through any other source, directly or indirectly.
                             </p>
                             <p class="s-14">
                                 <strong>Disclaimer : </strong> kreditsuvidha Private Limited is not a lender or financial institution. We do not provide loans or make credit decisions. All loan approvals, interest rates, fees, and disbursal are handled by third-party lenders/NBFCs. We do not guarantee loan approval, disbursal, or specific loan terms. The amount paid is only for the service charge. We are not lenders and do not guarantee any loan approval. Loan approval, disbursement/sanction is entirely dependent on NBFC criteria.

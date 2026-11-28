@@ -338,7 +338,8 @@ class SelfApplyController extends Controller
                 'email' => 'required|email',
                 'pincode' => 'required|digits:6',
                 'city' => 'required',
-                'state' => 'required'
+                'state' => 'required',
+                'loan_type' => 'required'
             ]);
             /* create new array which is pass in create function for create the record */
             $newInputs = [
@@ -353,6 +354,17 @@ class SelfApplyController extends Controller
             ];
             /* perform teh insertion in database */
             $result = UserRegistration::where('id', Cookie::get('userid'))->update($newInputs);
+
+            $newInputstype = [
+                'loan_type' => $request->input('loan_type'),
+            ];
+            $userid = Cookie::get('userid');
+
+            if ($userid) {
+                $result1 = LoanApplications::where('userid', $userid)->update($newInputstype);
+            }
+
+            Log::info("result" . $result1);
             /* if return teh true */
             if ($result) {
                 Cookie::queue('process_step', 3, $this->lifetime, '/', null, false, true, false, 'lax');
@@ -360,6 +372,7 @@ class SelfApplyController extends Controller
                 Cookie::queue('fullname', ucfirst(trim($request->input('firstname'))) . ' ' . ucfirst(trim($request->input('lastname'))), $this->lifetime, '/', null, false, true, false, 'lax');
                 return response()->json(['type' => 'SUCCESS', 'message' => 'Personal details saved successfully! ', 'data' => '']);
             } else {
+                Log::info('error log');
                 return response()->json(['type' => 'ERROR', 'message' => 'Oops! Something went wrong.', 'data' => '']);
             }
         } catch (ValidationException $e) {
@@ -1197,7 +1210,7 @@ class SelfApplyController extends Controller
                         'zip' => $userData->pincode,
                         'orderid' => $orderId,
                         'odamount' => $orderData->orderamount,
-                        // 'sourceurl' => 'https://kreditsuvidha.com/self-apply/paymentSuccess'
+                        // 'sourceurl' => 'https://kreditsuvidha.in/self-apply/paymentSuccess'
                         'sourceurl' => route('payment.success')
                     );
 
@@ -1414,7 +1427,7 @@ class SelfApplyController extends Controller
             $offerId = $record->id;
             //Log::info('offerId - '.$offerId);
             $orderId = number_format(microtime(true) * 1000, 0, '.', '');
-            // $returnUrl = 'https://kreditsuvidha.com/api/self-apply/prime-offer-response';
+            // $returnUrl = 'https://kreditsuvidha.in/api/self-apply/prime-offer-response';
             $returnUrl = route('api.self.apply.prime-offer-response');
 
             if (env('LYRA_MODE') == "PROD") {
@@ -1634,7 +1647,7 @@ class SelfApplyController extends Controller
 
             $orderId = number_format(microtime(true) * 1000, 0, '.', '');
             $encData = null;
-            // $returnUrl = 'https://kreditsuvidha.com/api/self-apply/mega-offer-response';
+            // $returnUrl = 'https://kreditsuvidha.in/api/self-apply/mega-offer-response';
             $returnUrl = route('api.self.apply.mega-offer-response');
 
             if (env('SABPAISA_MODE') == "PROD") {
@@ -1918,7 +1931,7 @@ class SelfApplyController extends Controller
             //Log::info('Offer data - '. $offerId);
             $orderId = number_format(microtime(true) * 1000, 0, '.', '');
             $encData = null;
-            // $returnUrl = 'https://kreditsuvidha.com/api/self-apply/premium-offer-response';
+            // $returnUrl = 'https://kreditsuvidha.in/api/self-apply/premium-offer-response';
             $returnUrl = route('api.self.apply.premium-offer-response');
 
             /* cipherPay PG starts */
@@ -2101,7 +2114,7 @@ class SelfApplyController extends Controller
             //Log::info('Offer data - '. $offerId);
             $orderId = 'KRBZVGP' . number_format(microtime(true) * 1000, 0, '.', '');
             $encData = null;
-            // $returnUrl = 'https://kreditsuvidha.com/api/self-apply/premium-offer-response';
+            // $returnUrl = 'https://kreditsuvidha.in/api/self-apply/premium-offer-response';
             $returnUrl = route('api.self.apply.premium-offer-response');
 
             /* veegah PG starts */
@@ -2588,7 +2601,7 @@ class SelfApplyController extends Controller
     //         Cache::put('user_password', $password, $this->lifetime);
     //         //Log::info('order ID - ' .$orderid);
 
-    //         // $returnUrl = 'https://kreditsuvidha.com/api/self-apply/star-offer-response';
+    //         // $returnUrl = 'https://kreditsuvidha.in/api/self-apply/star-offer-response';
     //         $returnUrl = route('api.self.apply.offer4Response');
 
     //         if (env('LYRA_MODE') == "PROD") {
